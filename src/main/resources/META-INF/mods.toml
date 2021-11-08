@@ -11,7 +11,7 @@ license="All rights reserved"
     #See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
     #updateJSONURL="https://change.me.example.invalid/updates.json"
     #displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
-    logoFile="SquidCoderLogo.png"
+    logoFile="logo.png"
     credits="Thanks for the tutorials SilentChaos512 & Kaupenjoe :) "
     authors="SquidCoder"
     description='''This is a mod that I am messing around with. It is currently being used to attempt to backport Minecraft 1.17 into 1.16. I have too much time on my hands...'''

@@ -2,19 +2,19 @@
   "block.amethyst_block.break": {
     "sounds": [
       {
-        "name": "block/amethyst/break1",
+        "name": "squidcoder:block/amethyst/break1",
         "volume": 1
       },
       {
-        "name": "block/amethyst/break2",
+        "name": "squidcoder:block/amethyst/break2",
         "volume": 1
       },
       {
-        "name": "block/amethyst/break3",
+        "name": "squidcoder:block/amethyst/break3",
         "volume": 1
       },
       {
-        "name": "block/amethyst/break4",
+        "name": "squidcoder:block/amethyst/break4",
         "volume": 1
       }
     ],
@@ -23,7 +23,7 @@
   "block.amethyst_block.chime": {
     "sounds": [
       {
-        "name": "block/amethyst/shimmer",
+        "name": "squidcoder:block/amethyst/shimmer",
         "volume": 0.2
       }
     ],
@@ -32,55 +32,55 @@
   "block.amethyst_block.fall": {
     "sounds": [
       {
-        "name": "block/amethyst/step1",
+        "name": "squidcoder:block/amethyst/step1",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step2",
+        "name": "squidcoder:block/amethyst/step2",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step3",
+        "name": "squidcoder:block/amethyst/step3",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step4",
+        "name": "squidcoder:block/amethyst/step4",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step5",
+        "name": "squidcoder:block/amethyst/step5",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step6",
+        "name": "squidcoder:block/amethyst/step6",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step7",
+        "name": "squidcoder:block/amethyst/step7",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step8",
+        "name": "squidcoder:block/amethyst/step8",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step9",
+        "name": "squidcoder:block/amethyst/step9",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step10",
+        "name": "squidcoder:block/amethyst/step10",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step11",
+        "name": "squidcoder:block/amethyst/step11",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step12",
+        "name": "squidcoder:block/amethyst/step12",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step14",
+        "name": "squidcoder:block/amethyst/step14",
         "volume": 1
       }
     ]
@@ -88,51 +88,51 @@
   "block.amethyst_block.hit": {
     "sounds": [
       {
-        "name": "block/amethyst/step1",
+        "name": "squidcoder:block/amethyst/step1",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step2",
+        "name": "squidcoder:block/amethyst/step2",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step3",
+        "name": "squidcoder:block/amethyst/step3",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step4",
+        "name": "squidcoder:block/amethyst/step4",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step5",
+        "name": "squidcoder:block/amethyst/step5",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step6",
+        "name": "squidcoder:block/amethyst/step6",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step7",
+        "name": "squidcoder:block/amethyst/step7",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step8",
+        "name": "squidcoder:block/amethyst/step8",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step9",
+        "name": "squidcoder:block/amethyst/step9",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step10",
+        "name": "squidcoder:block/amethyst/step10",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step11",
+        "name": "squidcoder:block/amethyst/step11",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step12",
+        "name": "squidcoder:block/amethyst/step12",
         "volume": 1
       }
     ],
@@ -141,19 +141,19 @@
   "block.amethyst_block.place": {
     "sounds": [
       {
-        "name": "block/amethyst/place1",
+        "name": "squidcoder:block/amethyst/place1",
         "volume": 1
       },
       {
-        "name": "block/amethyst/place2",
+        "name": "squidcoder:block/amethyst/place2",
         "volume": 1
       },
       {
-        "name": "block/amethyst/place3",
+        "name": "squidcoder:block/amethyst/place3",
         "volume": 1
       },
       {
-        "name": "block/amethyst/place4",
+        "name": "squidcoder:block/amethyst/place4",
         "volume": 1
       }
     ],
@@ -162,59 +162,59 @@
   "block.amethyst_block.step": {
     "sounds": [
       {
-        "name": "block/amethyst/step1",
+        "name": "squidcoder:block/amethyst/step1",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step2",
+        "name": "squidcoder:block/amethyst/step2",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step3",
+        "name": "squidcoder:block/amethyst/step3",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step4",
+        "name": "squidcoder:block/amethyst/step4",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step5",
+        "name": "squidcoder:block/amethyst/step5",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step6",
+        "name": "squidcoder:block/amethyst/step6",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step7",
+        "name": "squidcoder:block/amethyst/step7",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step8",
+        "name": "squidcoder:block/amethyst/step8",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step9",
+        "name": "squidcoder:block/amethyst/step9",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step10",
+        "name": "squidcoder:block/amethyst/step10",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step11",
+        "name": "squidcoder:block/amethyst/step11",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step12",
+        "name": "squidcoder:block/amethyst/step12",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step13",
+        "name": "squidcoder:block/amethyst/step13",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step14",
+        "name": "squidcoder:block/amethyst/step14",
         "volume": 1
       }
     ],
@@ -223,22 +223,22 @@
   "block.amethyst_cluster.break": {
     "sounds": [
       {
-        "name": "block/amethyst_cluster/break1",
+        "name": "squidcoder:block/amethyst_cluster/break1",
         "pitch": 0.8,
         "volume": 0.8
       },
       {
-        "name": "block/amethyst_cluster/break2",
+        "name": "squidcoder:block/amethyst_cluster/break2",
         "pitch": 0.8,
         "volume": 0.8
       },
       {
-        "name": "block/amethyst_cluster/break3",
+        "name": "squidcoder:block/amethyst_cluster/break3",
         "pitch": 0.8,
         "volume": 0.8
       },
       {
-        "name": "block/amethyst_cluster/break4",
+        "name": "squidcoder:block/amethyst_cluster/break4",
         "pitch": 0.8,
         "volume": 0.8
       }
@@ -248,55 +248,55 @@
   "block.amethyst_cluster.fall": {
     "sounds": [
       {
-        "name": "block/amethyst/step1",
+        "name": "squidcoder:block/amethyst/step1",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step2",
+        "name": "squidcoder:block/amethyst/step2",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step3",
+        "name": "squidcoder:block/amethyst/step3",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step4",
+        "name": "squidcoder:block/amethyst/step4",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step5",
+        "name": "squidcoder:block/amethyst/step5",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step6",
+        "name": "squidcoder:block/amethyst/step6",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step7",
+        "name": "squidcoder:block/amethyst/step7",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step8",
+        "name": "squidcoder:block/amethyst/step8",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step9",
+        "name": "squidcoder:block/amethyst/step9",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step10",
+        "name": "squidcoder:block/amethyst/step10",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step11",
+        "name": "squidcoder:block/amethyst/step11",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step12",
+        "name": "squidcoder:block/amethyst/step12",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step14",
+        "name": "squidcoder:block/amethyst/step14",
         "volume": 1
       }
     ]
@@ -304,51 +304,51 @@
   "block.amethyst_cluster.hit": {
     "sounds": [
       {
-        "name": "block/amethyst/step1",
+        "name": "squidcoder:block/amethyst/step1",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step2",
+        "name": "squidcoder:block/amethyst/step2",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step3",
+        "name": "squidcoder:block/amethyst/step3",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step4",
+        "name": "squidcoder:block/amethyst/step4",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step5",
+        "name": "squidcoder:block/amethyst/step5",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step6",
+        "name": "squidcoder:block/amethyst/step6",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step7",
+        "name": "squidcoder:block/amethyst/step7",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step8",
+        "name": "squidcoder:block/amethyst/step8",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step9",
+        "name": "squidcoder:block/amethyst/step9",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step10",
+        "name": "squidcoder:block/amethyst/step10",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step11",
+        "name": "squidcoder:block/amethyst/step11",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step12",
+        "name": "squidcoder:block/amethyst/step12",
         "volume": 1
       }
     ],
@@ -357,19 +357,19 @@
   "block.amethyst_cluster.place": {
     "sounds": [
       {
-        "name": "block/amethyst_cluster/place1",
+        "name": "squidcoder:block/amethyst_cluster/place1",
         "volume": 0.9
       },
       {
-        "name": "block/amethyst_cluster/place2",
+        "name": "squidcoder:block/amethyst_cluster/place2",
         "volume": 0.9
       },
       {
-        "name": "block/amethyst_cluster/place3",
+        "name": "squidcoder:block/amethyst_cluster/place3",
         "volume": 0.9
       },
       {
-        "name": "block/amethyst_cluster/place4",
+        "name": "squidcoder:block/amethyst_cluster/place4",
         "volume": 0.9
       }
     ],
@@ -378,59 +378,59 @@
   "block.amethyst_cluster.step": {
     "sounds": [
       {
-        "name": "block/amethyst/step1",
+        "name": "squidcoder:block/amethyst/step1",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step2",
+        "name": "squidcoder:block/amethyst/step2",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step3",
+        "name": "squidcoder:block/amethyst/step3",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step4",
+        "name": "squidcoder:block/amethyst/step4",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step5",
+        "name": "squidcoder:block/amethyst/step5",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step6",
+        "name": "squidcoder:block/amethyst/step6",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step7",
+        "name": "squidcoder:block/amethyst/step7",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step8",
+        "name": "squidcoder:block/amethyst/step8",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step9",
+        "name": "squidcoder:block/amethyst/step9",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step10",
+        "name": "squidcoder:block/amethyst/step10",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step11",
+        "name": "squidcoder:block/amethyst/step11",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step12",
+        "name": "squidcoder:block/amethyst/step12",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step13",
+        "name": "squidcoder:block/amethyst/step13",
         "volume": 1
       },
       {
-        "name": "block/amethyst/step14",
+        "name": "squidcoder:block/amethyst/step14",
         "volume": 1
       }
     ],
@@ -438,120 +438,120 @@
   },
   "block.azalea.break": {
     "sounds": [
-      "block/azalea/break1",
-      "block/azalea/break2",
-      "block/azalea/break3",
-      "block/azalea/break4",
-      "block/azalea/break5",
-      "block/azalea/break6"
+      "squidcoder:block/azalea/break1",
+      "squidcoder:block/azalea/break2",
+      "squidcoder:block/azalea/break3",
+      "squidcoder:block/azalea/break4",
+      "squidcoder:block/azalea/break5",
+      "squidcoder:block/azalea/break6"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.azalea.fall": {
     "sounds": [
-      "block/azalea/step1",
-      "block/azalea/step2",
-      "block/azalea/step3",
-      "block/azalea/step4",
-      "block/azalea/step5",
-      "block/azalea/step6"
+      "squidcoder:block/azalea/step1",
+      "squidcoder:block/azalea/step2",
+      "squidcoder:block/azalea/step3",
+      "squidcoder:block/azalea/step4",
+      "squidcoder:block/azalea/step5",
+      "squidcoder:block/azalea/step6"
     ]
   },
   "block.azalea.hit": {
     "sounds": [
-      "block/azalea/step1",
-      "block/azalea/step2",
-      "block/azalea/step3",
-      "block/azalea/step4",
-      "block/azalea/step5",
-      "block/azalea/step6"
+      "squidcoder:block/azalea/step1",
+      "squidcoder:block/azalea/step2",
+      "squidcoder:block/azalea/step3",
+      "squidcoder:block/azalea/step4",
+      "squidcoder:block/azalea/step5",
+      "squidcoder:block/azalea/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.azalea.place": {
     "sounds": [
-      "block/azalea/break1",
-      "block/azalea/break2",
-      "block/azalea/break3",
-      "block/azalea/break4",
-      "block/azalea/break5",
-      "block/azalea/break6"
+      "squidcoder:block/azalea/break1",
+      "squidcoder:block/azalea/break2",
+      "squidcoder:block/azalea/break3",
+      "squidcoder:block/azalea/break4",
+      "squidcoder:block/azalea/break5",
+      "squidcoder:block/azalea/break6"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.azalea.step": {
     "sounds": [
-      "block/azalea/step1",
-      "block/azalea/step2",
-      "block/azalea/step3",
-      "block/azalea/step4",
-      "block/azalea/step5",
-      "block/azalea/step6"
+      "squidcoder:block/azalea/step1",
+      "squidcoder:block/azalea/step2",
+      "squidcoder:block/azalea/step3",
+      "squidcoder:block/azalea/step4",
+      "squidcoder:block/azalea/step5",
+      "squidcoder:block/azalea/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.azalea_leaves.break": {
     "sounds": [
       {
-        "name": "block/azalea_leaves/break1",
+        "name": "squidcoder:block/azalea_leaves/break1",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break2",
+        "name": "squidcoder:block/azalea_leaves/break2",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break3",
+        "name": "squidcoder:block/azalea_leaves/break3",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break4",
+        "name": "squidcoder:block/azalea_leaves/break4",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break5",
+        "name": "squidcoder:block/azalea_leaves/break5",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break6",
+        "name": "squidcoder:block/azalea_leaves/break6",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break7",
+        "name": "squidcoder:block/azalea_leaves/break7",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break1",
+        "name": "squidcoder:block/azalea_leaves/break1",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break2",
+        "name": "squidcoder:block/azalea_leaves/break2",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break3",
+        "name": "squidcoder:block/azalea_leaves/break3",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break4",
+        "name": "squidcoder:block/azalea_leaves/break4",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break5",
+        "name": "squidcoder:block/azalea_leaves/break5",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break6",
+        "name": "squidcoder:block/azalea_leaves/break6",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break7",
+        "name": "squidcoder:block/azalea_leaves/break7",
         "volume": 0.85,
         "pitch": 0.92
       }
@@ -560,33 +560,33 @@
   },
   "block.azalea_leaves.fall": {
     "sounds": [
-      "block/azalea_leaves/step1",
-      "block/azalea_leaves/step2",
-      "block/azalea_leaves/step3",
-      "block/azalea_leaves/step4",
-      "block/azalea_leaves/step5"
+      "squidcoder:block/azalea_leaves/step1",
+      "squidcoder:block/azalea_leaves/step2",
+      "squidcoder:block/azalea_leaves/step3",
+      "squidcoder:block/azalea_leaves/step4",
+      "squidcoder:block/azalea_leaves/step5"
     ]
   },
   "block.azalea_leaves.hit": {
     "sounds": [
       {
-        "name": "block/azalea_leaves/step1",
+        "name": "squidcoder:block/azalea_leaves/step1",
         "volume": 0.8
       },
       {
-        "name": "block/azalea_leaves/step2",
+        "name": "squidcoder:block/azalea_leaves/step2",
         "volume": 0.8
       },
       {
-        "name": "block/azalea_leaves/step3",
+        "name": "squidcoder:block/azalea_leaves/step3",
         "volume": 0.8
       },
       {
-        "name": "block/azalea_leaves/step4",
+        "name": "squidcoder:block/azalea_leaves/step4",
         "volume": 0.8
       },
       {
-        "name": "block/azalea_leaves/step5",
+        "name": "squidcoder:block/azalea_leaves/step5",
         "volume": 0.8
       }
     ],
@@ -595,65 +595,65 @@
   "block.azalea_leaves.place": {
     "sounds": [
       {
-        "name": "block/azalea_leaves/break1",
+        "name": "squidcoder:block/azalea_leaves/break1",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break2",
+        "name": "squidcoder:block/azalea_leaves/break2",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break3",
+        "name": "squidcoder:block/azalea_leaves/break3",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break4",
+        "name": "squidcoder:block/azalea_leaves/break4",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break5",
+        "name": "squidcoder:block/azalea_leaves/break5",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break6",
+        "name": "squidcoder:block/azalea_leaves/break6",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break7",
+        "name": "squidcoder:block/azalea_leaves/break7",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/break1",
+        "name": "squidcoder:block/azalea_leaves/break1",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break2",
+        "name": "squidcoder:block/azalea_leaves/break2",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break3",
+        "name": "squidcoder:block/azalea_leaves/break3",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break4",
+        "name": "squidcoder:block/azalea_leaves/break4",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break5",
+        "name": "squidcoder:block/azalea_leaves/break5",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break6",
+        "name": "squidcoder:block/azalea_leaves/break6",
         "volume": 0.85,
         "pitch": 0.92
       },
       {
-        "name": "block/azalea_leaves/break7",
+        "name": "squidcoder:block/azalea_leaves/break7",
         "volume": 0.85,
         "pitch": 0.92
       }
@@ -663,23 +663,23 @@
   "block.azalea_leaves.step": {
     "sounds": [
       {
-        "name": "block/azalea_leaves/step1",
+        "name": "squidcoder:block/azalea_leaves/step1",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/step2",
+        "name": "squidcoder:block/azalea_leaves/step2",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/step3",
+        "name": "squidcoder:block/azalea_leaves/step3",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/step4",
+        "name": "squidcoder:block/azalea_leaves/step4",
         "volume": 0.85
       },
       {
-        "name": "block/azalea_leaves/step5",
+        "name": "squidcoder:block/azalea_leaves/step5",
         "volume": 0.85
       }
     ],
@@ -687,101 +687,101 @@
   },
   "block.big_dripleaf.break": {
     "sounds": [
-      "block/big_dripleaf/break1",
-      "block/big_dripleaf/break2",
-      "block/big_dripleaf/break3",
-      "block/big_dripleaf/break4",
-      "block/big_dripleaf/break5",
-      "block/big_dripleaf/break6"
+      "squidcoder:block/big_dripleaf/break1",
+      "squidcoder:block/big_dripleaf/break2",
+      "squidcoder:block/big_dripleaf/break3",
+      "squidcoder:block/big_dripleaf/break4",
+      "squidcoder:block/big_dripleaf/break5",
+      "squidcoder:block/big_dripleaf/break6"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.big_dripleaf.fall": {
     "sounds": [
-      "block/big_dripleaf/step1",
-      "block/big_dripleaf/step2",
-      "block/big_dripleaf/step3",
-      "block/big_dripleaf/step4",
-      "block/big_dripleaf/step5",
-      "block/big_dripleaf/step6"
+      "squidcoder:block/big_dripleaf/step1",
+      "squidcoder:block/big_dripleaf/step2",
+      "squidcoder:block/big_dripleaf/step3",
+      "squidcoder:block/big_dripleaf/step4",
+      "squidcoder:block/big_dripleaf/step5",
+      "squidcoder:block/big_dripleaf/step6"
     ]
   },
   "block.big_dripleaf.hit": {
     "sounds": [
-      "block/big_dripleaf/step1",
-      "block/big_dripleaf/step2",
-      "block/big_dripleaf/step3",
-      "block/big_dripleaf/step4",
-      "block/big_dripleaf/step5",
-      "block/big_dripleaf/step6"
+      "squidcoder:block/big_dripleaf/step1",
+      "squidcoder:block/big_dripleaf/step2",
+      "squidcoder:block/big_dripleaf/step3",
+      "squidcoder:block/big_dripleaf/step4",
+      "squidcoder:block/big_dripleaf/step5",
+      "squidcoder:block/big_dripleaf/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.big_dripleaf.place": {
     "sounds": [
-      "block/big_dripleaf/break1",
-      "block/big_dripleaf/break2",
-      "block/big_dripleaf/break3",
-      "block/big_dripleaf/break4",
-      "block/big_dripleaf/break5",
-      "block/big_dripleaf/break6"
+      "squidcoder:block/big_dripleaf/break1",
+      "squidcoder:block/big_dripleaf/break2",
+      "squidcoder:block/big_dripleaf/break3",
+      "squidcoder:block/big_dripleaf/break4",
+      "squidcoder:block/big_dripleaf/break5",
+      "squidcoder:block/big_dripleaf/break6"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.big_dripleaf.step": {
     "sounds": [
-      "block/big_dripleaf/step1",
-      "block/big_dripleaf/step2",
-      "block/big_dripleaf/step3",
-      "block/big_dripleaf/step4",
-      "block/big_dripleaf/step5",
-      "block/big_dripleaf/step6"
+      "squidcoder:block/big_dripleaf/step1",
+      "squidcoder:block/big_dripleaf/step2",
+      "squidcoder:block/big_dripleaf/step3",
+      "squidcoder:block/big_dripleaf/step4",
+      "squidcoder:block/big_dripleaf/step5",
+      "squidcoder:block/big_dripleaf/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.big_dripleaf.tilt_down": {
     "sounds": [
-      "block/big_dripleaf/tilt_down1",
-      "block/big_dripleaf/tilt_down2",
-      "block/big_dripleaf/tilt_down3",
-      "block/big_dripleaf/tilt_down4",
-      "block/big_dripleaf/tilt_down5"
+      "squidcoder:block/big_dripleaf/tilt_down1",
+      "squidcoder:block/big_dripleaf/tilt_down2",
+      "squidcoder:block/big_dripleaf/tilt_down3",
+      "squidcoder:block/big_dripleaf/tilt_down4",
+      "squidcoder:block/big_dripleaf/tilt_down5"
     ],
     "subtitle": "subtitles.block.big_dripleaf.tilt_down"
   },
   "block.big_dripleaf.tilt_up": {
     "sounds": [
-      "block/big_dripleaf/tilt_up1",
-      "block/big_dripleaf/tilt_up2",
-      "block/big_dripleaf/tilt_up3",
-      "block/big_dripleaf/tilt_up4"
+      "squidcoder:block/big_dripleaf/tilt_up1",
+      "squidcoder:block/big_dripleaf/tilt_up2",
+      "squidcoder:block/big_dripleaf/tilt_up3",
+      "squidcoder:block/big_dripleaf/tilt_up4"
     ],
     "subtitle": "subtitles.block.big_dripleaf.tilt_up"
   },
   "block.cake.add_candle": {
     "sounds": [
-      "block/cake/add_candle1",
-      "block/cake/add_candle2",
-      "block/cake/add_candle3"
+      "squidcoder:block/cake/add_candle1",
+      "squidcoder:block/cake/add_candle2",
+      "squidcoder:block/cake/add_candle3"
     ],
     "subtitle": "subtitles.block.cake.add_candle"
   },
   "block.calcite.break": {
     "sounds": [
       {
-        "name": "block/calcite/break1",
+        "name": "squidcoder:block/calcite/break1",
         "volume": 0.9
       },
       {
-        "name": "block/calcite/break2",
+        "name": "squidcoder:block/calcite/break2",
         "volume": 0.9
       },
       {
-        "name": "block/calcite/break3",
+        "name": "squidcoder:block/calcite/break3",
         "volume": 0.9
       },
       {
-        "name": "block/calcite/break4",
+        "name": "squidcoder:block/calcite/break4",
         "volume": 0.9
       }
     ],
@@ -790,27 +790,27 @@
   "block.calcite.fall": {
     "sounds": [
       {
-        "name": "block/calcite/step1",
+        "name": "squidcoder:block/calcite/step1",
         "volume": 1
       },
       {
-        "name": "block/calcite/step2",
+        "name": "squidcoder:block/calcite/step2",
         "volume": 1
       },
       {
-        "name": "block/calcite/step3",
+        "name": "squidcoder:block/calcite/step3",
         "volume": 1
       },
       {
-        "name": "block/calcite/step4",
+        "name": "squidcoder:block/calcite/step4",
         "volume": 1
       },
       {
-        "name": "block/calcite/step5",
+        "name": "squidcoder:block/calcite/step5",
         "volume": 1
       },
       {
-        "name": "block/calcite/step6",
+        "name": "squidcoder:block/calcite/step6",
         "volume": 1
       }
     ]
@@ -818,27 +818,27 @@
   "block.calcite.hit": {
     "sounds": [
       {
-        "name": "block/calcite/step1",
+        "name": "squidcoder:block/calcite/step1",
         "volume": 1
       },
       {
-        "name": "block/calcite/step2",
+        "name": "squidcoder:block/calcite/step2",
         "volume": 1
       },
       {
-        "name": "block/calcite/step3",
+        "name": "squidcoder:block/calcite/step3",
         "volume": 1
       },
       {
-        "name": "block/calcite/step4",
+        "name": "squidcoder:block/calcite/step4",
         "volume": 1
       },
       {
-        "name": "block/calcite/step5",
+        "name": "squidcoder:block/calcite/step5",
         "volume": 1
       },
       {
-        "name": "block/calcite/step6",
+        "name": "squidcoder:block/calcite/step6",
         "volume": 1
       }
     ],
@@ -847,19 +847,19 @@
   "block.calcite.place": {
     "sounds": [
       {
-        "name": "block/calcite/place1",
+        "name": "squidcoder:block/calcite/place1",
         "volume": 0.94
       },
       {
-        "name": "block/calcite/place2",
+        "name": "squidcoder:block/calcite/place2",
         "volume": 0.94
       },
       {
-        "name": "block/calcite/place3",
+        "name": "squidcoder:block/calcite/place3",
         "volume": 0.94
       },
       {
-        "name": "block/calcite/place4",
+        "name": "squidcoder:block/calcite/place4",
         "volume": 0.94
       }
     ],
@@ -868,27 +868,27 @@
   "block.calcite.step": {
     "sounds": [
       {
-        "name": "block/calcite/step1",
+        "name": "squidcoder:block/calcite/step1",
         "volume": 1
       },
       {
-        "name": "block/calcite/step2",
+        "name": "squidcoder:block/calcite/step2",
         "volume": 1
       },
       {
-        "name": "block/calcite/step3",
+        "name": "squidcoder:block/calcite/step3",
         "volume": 1
       },
       {
-        "name": "block/calcite/step4",
+        "name": "squidcoder:block/calcite/step4",
         "volume": 1
       },
       {
-        "name": "block/calcite/step5",
+        "name": "squidcoder:block/calcite/step5",
         "volume": 1
       },
       {
-        "name": "block/calcite/step6",
+        "name": "squidcoder:block/calcite/step6",
         "volume": 1
       }
     ],
@@ -897,163 +897,163 @@
   "block.candle.ambient": {
     "sounds": [
       {
-        "name": "block/candle/ambient1",
+        "name": "squidcoder:block/candle/ambient1",
         "attenuation_distance": 3,
         "volume": 0.7,
         "pitch": 0.8
       },
       {
-        "name": "block/candle/ambient2",
+        "name": "squidcoder:block/candle/ambient2",
         "attenuation_distance": 3,
         "volume": 0.7,
         "pitch": 0.8
       },
       {
-        "name": "block/candle/ambient3",
+        "name": "squidcoder:block/candle/ambient3",
         "attenuation_distance": 3,
         "volume": 0.7,
         "pitch": 0.8
       },
       {
-        "name": "block/candle/ambient4",
+        "name": "squidcoder:block/candle/ambient4",
         "attenuation_distance": 3,
         "volume": 0.7,
         "pitch": 0.8
       },
       {
-        "name": "block/candle/ambient5",
+        "name": "squidcoder:block/candle/ambient5",
         "attenuation_distance": 3,
         "volume": 0.7,
         "pitch": 0.8
       },
       {
-        "name": "block/candle/ambient6",
+        "name": "squidcoder:block/candle/ambient6",
         "attenuation_distance": 3,
         "volume": 0.7,
         "pitch": 0.8
       },
       {
-        "name": "block/candle/ambient7",
+        "name": "squidcoder:block/candle/ambient7",
         "attenuation_distance": 3,
         "volume": 0.7,
         "pitch": 0.8
       },
       {
-        "name": "block/candle/ambient8",
+        "name": "squidcoder:block/candle/ambient8",
         "attenuation_distance": 3,
         "volume": 0.7,
         "pitch": 0.8
       },
       {
-        "name": "block/candle/ambient9",
+        "name": "squidcoder:block/candle/ambient9",
         "attenuation_distance": 3,
         "volume": 0.7,
         "pitch": 0.8
       },
       {
-        "name": "block/candle/ambient1",
+        "name": "squidcoder:block/candle/ambient1",
         "attenuation_distance": 3,
         "volume": 0.8,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/ambient2",
+        "name": "squidcoder:block/candle/ambient2",
         "attenuation_distance": 3,
         "volume": 0.8,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/ambient3",
+        "name": "squidcoder:block/candle/ambient3",
         "attenuation_distance": 3,
         "volume": 0.8,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/ambient4",
+        "name": "squidcoder:block/candle/ambient4",
         "attenuation_distance": 3,
         "volume": 0.8,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/ambient5",
+        "name": "squidcoder:block/candle/ambient5",
         "attenuation_distance": 3,
         "volume": 0.8,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/ambient6",
+        "name": "squidcoder:block/candle/ambient6",
         "attenuation_distance": 3,
         "volume": 0.8,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/ambient7",
+        "name": "squidcoder:block/candle/ambient7",
         "attenuation_distance": 3,
         "volume": 0.8,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/ambient8",
+        "name": "squidcoder:block/candle/ambient8",
         "attenuation_distance": 3,
         "volume": 0.8,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/ambient9",
+        "name": "squidcoder:block/candle/ambient9",
         "attenuation_distance": 3,
         "volume": 0.8,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/ambient1",
+        "name": "squidcoder:block/candle/ambient1",
         "attenuation_distance": 3,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/ambient2",
+        "name": "squidcoder:block/candle/ambient2",
         "attenuation_distance": 3,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/ambient3",
+        "name": "squidcoder:block/candle/ambient3",
         "attenuation_distance": 3,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/ambient4",
+        "name": "squidcoder:block/candle/ambient4",
         "attenuation_distance": 3,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/ambient5",
+        "name": "squidcoder:block/candle/ambient5",
         "attenuation_distance": 3,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/ambient6",
+        "name": "squidcoder:block/candle/ambient6",
         "attenuation_distance": 3,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/ambient7",
+        "name": "squidcoder:block/candle/ambient7",
         "attenuation_distance": 3,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/ambient8",
+        "name": "squidcoder:block/candle/ambient8",
         "attenuation_distance": 3,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/ambient9",
+        "name": "squidcoder:block/candle/ambient9",
         "attenuation_distance": 3,
         "volume": 1,
         "pitch": 1
@@ -1063,120 +1063,120 @@
   },
   "block.candle.break": {
     "sounds": [
-      "block/candle/break1",
-      "block/candle/break2",
-      "block/candle/break3",
-      "block/candle/break4",
-      "block/candle/break5"
+      "squidcoder:block/candle/break1",
+      "squidcoder:block/candle/break2",
+      "squidcoder:block/candle/break3",
+      "squidcoder:block/candle/break4",
+      "squidcoder:block/candle/break5"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.candle.extinguish": {
     "sounds": [
       {
-        "name": "block/candle/extinguish1",
+        "name": "squidcoder:block/candle/extinguish1",
         "attenuation_distance": 8,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/extinguish2",
+        "name": "squidcoder:block/candle/extinguish2",
         "attenuation_distance": 8,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/extinguish3",
+        "name": "squidcoder:block/candle/extinguish3",
         "attenuation_distance": 8,
         "volume": 1,
         "pitch": 1
       },
       {
-        "name": "block/candle/extinguish1",
+        "name": "squidcoder:block/candle/extinguish1",
         "attenuation_distance": 8,
         "volume": 1,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/extinguish2",
+        "name": "squidcoder:block/candle/extinguish2",
         "attenuation_distance": 8,
         "volume": 1,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/extinguish3",
+        "name": "squidcoder:block/candle/extinguish3",
         "attenuation_distance": 8,
         "volume": 1,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/extinguish1",
+        "name": "squidcoder:block/candle/extinguish1",
         "attenuation_distance": 8,
         "volume": 1,
         "pitch": 1.1
       },
       {
-        "name": "block/candle/extinguish2",
+        "name": "squidcoder:block/candle/extinguish2",
         "attenuation_distance": 8,
         "volume": 1,
         "pitch": 1.1
       },
       {
-        "name": "block/candle/extinguish3",
+        "name": "squidcoder:block/candle/extinguish3",
         "attenuation_distance": 8,
         "volume": 1,
         "pitch": 1.1
       },
       {
-        "name": "block/candle/extinguish1",
+        "name": "squidcoder:block/candle/extinguish1",
         "attenuation_distance": 8,
         "volume": 0.9,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/extinguish2",
+        "name": "squidcoder:block/candle/extinguish2",
         "attenuation_distance": 8,
         "volume": 0.9,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/extinguish3",
+        "name": "squidcoder:block/candle/extinguish3",
         "attenuation_distance": 8,
         "volume": 0.9,
         "pitch": 0.9
       },
       {
-        "name": "block/candle/extinguish1",
+        "name": "squidcoder:block/candle/extinguish1",
         "attenuation_distance": 8,
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/candle/extinguish2",
+        "name": "squidcoder:block/candle/extinguish2",
         "attenuation_distance": 8,
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/candle/extinguish3",
+        "name": "squidcoder:block/candle/extinguish3",
         "attenuation_distance": 8,
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/candle/extinguish1",
+        "name": "squidcoder:block/candle/extinguish1",
         "attenuation_distance": 8,
         "volume": 0.9,
         "pitch": 1
       },
       {
-        "name": "block/candle/extinguish2",
+        "name": "squidcoder:block/candle/extinguish2",
         "attenuation_distance": 8,
         "volume": 0.9,
         "pitch": 1
       },
       {
-        "name": "block/candle/extinguish3",
+        "name": "squidcoder:block/candle/extinguish3",
         "attenuation_distance": 8,
         "volume": 0.9,
         "pitch": 1
@@ -1186,69 +1186,69 @@
   },
   "block.candle.fall": {
     "sounds": [
-      "block/candle/step1",
-      "block/candle/step2",
-      "block/candle/step3",
-      "block/candle/step4",
-      "block/candle/step5"
+      "squidcoder:block/candle/step1",
+      "squidcoder:block/candle/step2",
+      "squidcoder:block/candle/step3",
+      "squidcoder:block/candle/step4",
+      "squidcoder:block/candle/step5"
     ]
   },
   "block.candle.hit": {
     "sounds": [
-      "block/candle/step1",
-      "block/candle/step2",
-      "block/candle/step3",
-      "block/candle/step4",
-      "block/candle/step5"
+      "squidcoder:block/candle/step1",
+      "squidcoder:block/candle/step2",
+      "squidcoder:block/candle/step3",
+      "squidcoder:block/candle/step4",
+      "squidcoder:block/candle/step5"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.candle.place": {
     "sounds": [
-      "block/candle/break1",
-      "block/candle/break2",
-      "block/candle/break3",
-      "block/candle/break4",
-      "block/candle/break5"
+      "squidcoder:block/candle/break1",
+      "squidcoder:block/candle/break2",
+      "squidcoder:block/candle/break3",
+      "squidcoder:block/candle/break4",
+      "squidcoder:block/candle/break5"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.candle.step": {
     "sounds": [
-      "block/candle/step1",
-      "block/candle/step2",
-      "block/candle/step3",
-      "block/candle/step4",
-      "block/candle/step5"
+      "squidcoder:block/candle/step1",
+      "squidcoder:block/candle/step2",
+      "squidcoder:block/candle/step3",
+      "squidcoder:block/candle/step4",
+      "squidcoder:block/candle/step5"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.cave_vines.break": {
     "sounds": [
-      "block/cave_vines/break1",
-      "block/cave_vines/break2",
-      "block/cave_vines/break3",
-      "block/cave_vines/break4",
-      "block/cave_vines/break5"
+      "squidcoder:block/cave_vines/break1",
+      "squidcoder:block/cave_vines/break2",
+      "squidcoder:block/cave_vines/break3",
+      "squidcoder:block/cave_vines/break4",
+      "squidcoder:block/cave_vines/break5"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.cave_vines.fall": {
     "sounds": [
-      "block/vine/climb1",
-      "block/vine/climb2",
-      "block/vine/climb3",
-      "block/vine/climb4",
-      "block/vine/climb5"
+      "squidcoder:block/vine/climb1",
+      "squidcoder:block/vine/climb2",
+      "squidcoder:block/vine/climb3",
+      "squidcoder:block/vine/climb4",
+      "squidcoder:block/vine/climb5"
     ]
   },
   "block.cave_vines.hit": {
     "sounds": [
-      "block/vine/climb1",
-      "block/vine/climb2",
-      "block/vine/climb3",
-      "block/vine/climb4",
-      "block/vine/climb5"
+      "squidcoder:block/vine/climb1",
+      "squidcoder:block/vine/climb2",
+      "squidcoder:block/vine/climb3",
+      "squidcoder:block/vine/climb4",
+      "squidcoder:block/vine/climb5"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
@@ -1263,21 +1263,21 @@
   },
   "block.cave_vines.place": {
     "sounds": [
-      "block/cave_vines/break1",
-      "block/cave_vines/break2",
-      "block/cave_vines/break3",
-      "block/cave_vines/break4",
-      "block/cave_vines/break5"
+      "squidcoder:block/cave_vines/break1",
+      "squidcoder:block/cave_vines/break2",
+      "squidcoder:block/cave_vines/break3",
+      "squidcoder:block/cave_vines/break4",
+      "squidcoder:block/cave_vines/break5"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.cave_vines.step": {
     "sounds": [
-      "block/vine/climb1",
-      "block/vine/climb2",
-      "block/vine/climb3",
-      "block/vine/climb4",
-      "block/vine/climb5"
+      "squidcoder:block/vine/climb1",
+      "squidcoder:block/vine/climb2",
+      "squidcoder:block/vine/climb3",
+      "squidcoder:block/vine/climb4",
+      "squidcoder:block/vine/climb5"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
@@ -1292,126 +1292,126 @@
   },
   "block.copper.fall": {
     "sounds": [
-      "block/copper/step1",
-      "block/copper/step2",
-      "block/copper/step3",
-      "block/copper/step4",
-      "block/copper/step5",
-      "block/copper/step6"
+      "squidcoder:block/copper/step1",
+      "squidcoder:block/copper/step2",
+      "squidcoder:block/copper/step3",
+      "squidcoder:block/copper/step4",
+      "squidcoder:block/copper/step5",
+      "squidcoder:block/copper/step6"
     ]
   },
   "block.copper.hit": {
     "sounds": [
-      "block/copper/step1",
-      "block/copper/step2",
-      "block/copper/step3",
-      "block/copper/step4",
-      "block/copper/step5",
-      "block/copper/step6"
+      "squidcoder:block/copper/step1",
+      "squidcoder:block/copper/step2",
+      "squidcoder:block/copper/step3",
+      "squidcoder:block/copper/step4",
+      "squidcoder:block/copper/step5",
+      "squidcoder:block/copper/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.copper.place": {
     "sounds": [
-      "block/copper/break1",
-      "block/copper/break2",
-      "block/copper/break3",
-      "block/copper/break4"
+      "squidcoder:block/copper/break1",
+      "squidcoder:block/copper/break2",
+      "squidcoder:block/copper/break3",
+      "squidcoder:block/copper/break4"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.copper.step": {
     "sounds": [
-      "block/copper/step1",
-      "block/copper/step2",
-      "block/copper/step3",
-      "block/copper/step4",
-      "block/copper/step5",
-      "block/copper/step6"
+      "squidcoder:block/copper/step1",
+      "squidcoder:block/copper/step2",
+      "squidcoder:block/copper/step3",
+      "squidcoder:block/copper/step4",
+      "squidcoder:block/copper/step5",
+      "squidcoder:block/copper/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.deepslate.break": {
     "sounds": [
-      "block/deepslate/break1",
-      "block/deepslate/break2",
-      "block/deepslate/break3",
-      "block/deepslate/break4"
+      "squidcoder:block/deepslate/break1",
+      "squidcoder:block/deepslate/break2",
+      "squidcoder:block/deepslate/break3",
+      "squidcoder:block/deepslate/break4"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.deepslate.fall": {
     "sounds": [
-      "block/deepslate/step1",
-      "block/deepslate/step2",
-      "block/deepslate/step3",
-      "block/deepslate/step4",
-      "block/deepslate/step5",
-      "block/deepslate/step6"
+      "squidcoder:block/deepslate/step1",
+      "squidcoder:block/deepslate/step2",
+      "squidcoder:block/deepslate/step3",
+      "squidcoder:block/deepslate/step4",
+      "squidcoder:block/deepslate/step5",
+      "squidcoder:block/deepslate/step6"
     ]
   },
   "block.deepslate.hit": {
     "sounds": [
-      "block/deepslate/step1",
-      "block/deepslate/step2",
-      "block/deepslate/step3",
-      "block/deepslate/step4",
-      "block/deepslate/step5",
-      "block/deepslate/step6"
+      "squidcoder:block/deepslate/step1",
+      "squidcoder:block/deepslate/step2",
+      "squidcoder:block/deepslate/step3",
+      "squidcoder:block/deepslate/step4",
+      "squidcoder:block/deepslate/step5",
+      "squidcoder:block/deepslate/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.deepslate.place": {
     "sounds": [
-      "block/deepslate/place1",
-      "block/deepslate/place2",
-      "block/deepslate/place3",
-      "block/deepslate/place4",
-      "block/deepslate/place5",
-      "block/deepslate/place6"
+      "squidcoder:block/deepslate/place1",
+      "squidcoder:block/deepslate/place2",
+      "squidcoder:block/deepslate/place3",
+      "squidcoder:block/deepslate/place4",
+      "squidcoder:block/deepslate/place5",
+      "squidcoder:block/deepslate/place6"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.deepslate.step": {
     "sounds": [
-      "block/deepslate/step1",
-      "block/deepslate/step2",
-      "block/deepslate/step3",
-      "block/deepslate/step4",
-      "block/deepslate/step5",
-      "block/deepslate/step6"
+      "squidcoder:block/deepslate/step1",
+      "squidcoder:block/deepslate/step2",
+      "squidcoder:block/deepslate/step3",
+      "squidcoder:block/deepslate/step4",
+      "squidcoder:block/deepslate/step5",
+      "squidcoder:block/deepslate/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.deepslate_bricks.break": {
     "sounds": [
       {
-        "name": "block/deepslate_bricks/place1",
+        "name": "squidcoder:block/deepslate_bricks/place1",
         "pitch": 1,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place2",
+        "name": "squidcoder:block/deepslate_bricks/place2",
         "pitch": 1,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place3",
+        "name": "squidcoder:block/deepslate_bricks/place3",
         "pitch": 1,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place4",
+        "name": "squidcoder:block/deepslate_bricks/place4",
         "pitch": 1,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place5",
+        "name": "squidcoder:block/deepslate_bricks/place5",
         "pitch": 1,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place6",
+        "name": "squidcoder:block/deepslate_bricks/place6",
         "pitch": 1,
         "volume": 0.85
       }
@@ -1421,23 +1421,23 @@
   "block.deepslate_bricks.fall": {
     "sounds": [
       {
-        "name": "block/deepslate_bricks/step1",
+        "name": "squidcoder:block/deepslate_bricks/step1",
         "pitch": 1
       },
       {
-        "name": "block/deepslate_bricks/step2",
+        "name": "squidcoder:block/deepslate_bricks/step2",
         "pitch": 1
       },
       {
-        "name": "block/deepslate_bricks/step3",
+        "name": "squidcoder:block/deepslate_bricks/step3",
         "pitch": 1
       },
       {
-        "name": "block/deepslate_bricks/step4",
+        "name": "squidcoder:block/deepslate_bricks/step4",
         "pitch": 1
       },
       {
-        "name": "block/deepslate_bricks/step5",
+        "name": "squidcoder:block/deepslate_bricks/step5",
         "pitch": 1
       }
     ]
@@ -1445,23 +1445,23 @@
   "block.deepslate_bricks.hit": {
     "sounds": [
       {
-        "name": "block/deepslate_bricks/step1",
+        "name": "squidcoder:block/deepslate_bricks/step1",
         "pitch": 1
       },
       {
-        "name": "block/deepslate_bricks/step2",
+        "name": "squidcoder:block/deepslate_bricks/step2",
         "pitch": 1
       },
       {
-        "name": "block/deepslate_bricks/step3",
+        "name": "squidcoder:block/deepslate_bricks/step3",
         "pitch": 1
       },
       {
-        "name": "block/deepslate_bricks/step4",
+        "name": "squidcoder:block/deepslate_bricks/step4",
         "pitch": 1
       },
       {
-        "name": "block/deepslate_bricks/step5",
+        "name": "squidcoder:block/deepslate_bricks/step5",
         "pitch": 1
       }
     ],
@@ -1470,32 +1470,32 @@
   "block.deepslate_bricks.place": {
     "sounds": [
       {
-        "name": "block/deepslate_bricks/place1",
+        "name": "squidcoder:block/deepslate_bricks/place1",
         "pitch": 1,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place2",
+        "name": "squidcoder:block/deepslate_bricks/place2",
         "pitch": 1,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place3",
+        "name": "squidcoder:block/deepslate_bricks/place3",
         "pitch": 1,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place4",
+        "name": "squidcoder:block/deepslate_bricks/place4",
         "pitch": 1,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place5",
+        "name": "squidcoder:block/deepslate_bricks/place5",
         "pitch": 1,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place6",
+        "name": "squidcoder:block/deepslate_bricks/place6",
         "pitch": 1,
         "volume": 0.85
       }
@@ -1505,23 +1505,23 @@
   "block.deepslate_bricks.step": {
     "sounds": [
       {
-        "name": "block/deepslate_bricks/step1",
+        "name": "squidcoder:block/deepslate_bricks/step1",
         "pitch": 0.9
       },
       {
-        "name": "block/deepslate_bricks/step2",
+        "name": "squidcoder:block/deepslate_bricks/step2",
         "pitch": 0.9
       },
       {
-        "name": "block/deepslate_bricks/step3",
+        "name": "squidcoder:block/deepslate_bricks/step3",
         "pitch": 0.9
       },
       {
-        "name": "block/deepslate_bricks/step4",
+        "name": "squidcoder:block/deepslate_bricks/step4",
         "pitch": 0.9
       },
       {
-        "name": "block/deepslate_bricks/step5",
+        "name": "squidcoder:block/deepslate_bricks/step5",
         "pitch": 0.9
       }
     ],
@@ -1530,32 +1530,32 @@
   "block.deepslate_tiles.break": {
     "sounds": [
       {
-        "name": "block/deepslate_bricks/place1",
+        "name": "squidcoder:block/deepslate_bricks/place1",
         "pitch": 1.3,
         "volume": 0.92
       },
       {
-        "name": "block/deepslate_bricks/place2",
+        "name": "squidcoder:block/deepslate_bricks/place2",
         "pitch": 1.3,
         "volume": 0.92
       },
       {
-        "name": "block/deepslate_bricks/place3",
+        "name": "squidcoder:block/deepslate_bricks/place3",
         "pitch": 1.3,
         "volume": 0.92
       },
       {
-        "name": "block/deepslate_bricks/place4",
+        "name": "squidcoder:block/deepslate_bricks/place4",
         "pitch": 1.3,
         "volume": 0.92
       },
       {
-        "name": "block/deepslate_bricks/place5",
+        "name": "squidcoder:block/deepslate_bricks/place5",
         "pitch": 1.3,
         "volume": 0.92
       },
       {
-        "name": "block/deepslate_bricks/place6",
+        "name": "squidcoder:block/deepslate_bricks/place6",
         "pitch": 1.3,
         "volume": 0.92
       }
@@ -1565,23 +1565,23 @@
   "block.deepslate_tiles.fall": {
     "sounds": [
       {
-        "name": "block/deepslate_bricks/step1",
+        "name": "squidcoder:block/deepslate_bricks/step1",
         "pitch": 1.3
       },
       {
-        "name": "block/deepslate_bricks/step2",
+        "name": "squidcoder:block/deepslate_bricks/step2",
         "pitch": 1.3
       },
       {
-        "name": "block/deepslate_bricks/step3",
+        "name": "squidcoder:block/deepslate_bricks/step3",
         "pitch": 1.3
       },
       {
-        "name": "block/deepslate_bricks/step4",
+        "name": "squidcoder:block/deepslate_bricks/step4",
         "pitch": 1.3
       },
       {
-        "name": "block/deepslate_bricks/step5",
+        "name": "squidcoder:block/deepslate_bricks/step5",
         "pitch": 1.3
       }
     ]
@@ -1589,23 +1589,23 @@
   "block.deepslate_tiles.hit": {
     "sounds": [
       {
-        "name": "block/deepslate_bricks/step1",
+        "name": "squidcoder:block/deepslate_bricks/step1",
         "pitch": 1.3
       },
       {
-        "name": "block/deepslate_bricks/step2",
+        "name": "squidcoder:block/deepslate_bricks/step2",
         "pitch": 1.3
       },
       {
-        "name": "block/deepslate_bricks/step3",
+        "name": "squidcoder:block/deepslate_bricks/step3",
         "pitch": 1.3
       },
       {
-        "name": "block/deepslate_bricks/step4",
+        "name": "squidcoder:block/deepslate_bricks/step4",
         "pitch": 1.3
       },
       {
-        "name": "block/deepslate_bricks/step5",
+        "name": "squidcoder:block/deepslate_bricks/step5",
         "pitch": 1.3
       }
     ],
@@ -1614,32 +1614,32 @@
   "block.deepslate_tiles.place": {
     "sounds": [
       {
-        "name": "block/deepslate_bricks/place1",
+        "name": "squidcoder:block/deepslate_bricks/place1",
         "pitch": 1.2,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place2",
+        "name": "squidcoder:block/deepslate_bricks/place2",
         "pitch": 1.2,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place3",
+        "name": "squidcoder:block/deepslate_bricks/place3",
         "pitch": 1.2,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place4",
+        "name": "squidcoder:block/deepslate_bricks/place4",
         "pitch": 1.2,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place5",
+        "name": "squidcoder:block/deepslate_bricks/place5",
         "pitch": 1.2,
         "volume": 0.85
       },
       {
-        "name": "block/deepslate_bricks/place6",
+        "name": "squidcoder:block/deepslate_bricks/place6",
         "pitch": 1.2,
         "volume": 0.85
       }
@@ -1649,23 +1649,23 @@
   "block.deepslate_tiles.step": {
     "sounds": [
       {
-        "name": "block/deepslate_bricks/step1",
+        "name": "squidcoder:block/deepslate_bricks/step1",
         "pitch": 1.2
       },
       {
-        "name": "block/deepslate_bricks/step2",
+        "name": "squidcoder:block/deepslate_bricks/step2",
         "pitch": 1.2
       },
       {
-        "name": "block/deepslate_bricks/step3",
+        "name": "squidcoder:block/deepslate_bricks/step3",
         "pitch": 1.2
       },
       {
-        "name": "block/deepslate_bricks/step4",
+        "name": "squidcoder:block/deepslate_bricks/step4",
         "pitch": 1.2
       },
       {
-        "name": "block/deepslate_bricks/step5",
+        "name": "squidcoder:block/deepslate_bricks/step5",
         "pitch": 1.2
       }
     ],
@@ -1673,179 +1673,179 @@
   },
   "block.dripstone_block.break": {
     "sounds": [
-      "block/dripstone/break1",
-      "block/dripstone/break2",
-      "block/dripstone/break3",
-      "block/dripstone/break4",
-      "block/dripstone/break5"
+      "squidcoder:block/dripstone/break1",
+      "squidcoder:block/dripstone/break2",
+      "squidcoder:block/dripstone/break3",
+      "squidcoder:block/dripstone/break4",
+      "squidcoder:block/dripstone/break5"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.dripstone_block.fall": {
     "sounds": [
-      "block/dripstone/step1",
-      "block/dripstone/step2",
-      "block/dripstone/step3",
-      "block/dripstone/step4",
-      "block/dripstone/step5",
-      "block/dripstone/step6"
+      "squidcoder:block/dripstone/step1",
+      "squidcoder:block/dripstone/step2",
+      "squidcoder:block/dripstone/step3",
+      "squidcoder:block/dripstone/step4",
+      "squidcoder:block/dripstone/step5",
+      "squidcoder:block/dripstone/step6"
     ]
   },
   "block.dripstone_block.hit": {
     "sounds": [
-      "block/dripstone/step1",
-      "block/dripstone/step2",
-      "block/dripstone/step3",
-      "block/dripstone/step4",
-      "block/dripstone/step5",
-      "block/dripstone/step6"
+      "squidcoder:block/dripstone/step1",
+      "squidcoder:block/dripstone/step2",
+      "squidcoder:block/dripstone/step3",
+      "squidcoder:block/dripstone/step4",
+      "squidcoder:block/dripstone/step5",
+      "squidcoder:block/dripstone/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.dripstone_block.place": {
     "sounds": [
-      "block/dripstone/break1",
-      "block/dripstone/break2",
-      "block/dripstone/break3",
-      "block/dripstone/break4",
-      "block/dripstone/break5"
+      "squidcoder:block/dripstone/break1",
+      "squidcoder:block/dripstone/break2",
+      "squidcoder:block/dripstone/break3",
+      "squidcoder:block/dripstone/break4",
+      "squidcoder:block/dripstone/break5"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.dripstone_block.step": {
     "sounds": [
-      "block/dripstone/step1",
-      "block/dripstone/step2",
-      "block/dripstone/step3",
-      "block/dripstone/step4",
-      "block/dripstone/step5",
-      "block/dripstone/step6"
+      "squidcoder:block/dripstone/step1",
+      "squidcoder:block/dripstone/step2",
+      "squidcoder:block/dripstone/step3",
+      "squidcoder:block/dripstone/step4",
+      "squidcoder:block/dripstone/step5",
+      "squidcoder:block/dripstone/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.flowering_azalea.break": {
     "sounds": [
-      "block/azalea/break1",
-      "block/azalea/break2",
-      "block/azalea/break3",
-      "block/azalea/break4",
-      "block/azalea/break5",
-      "block/azalea/break6"
+      "squidcoder:block/azalea/break1",
+      "squidcoder:block/azalea/break2",
+      "squidcoder:block/azalea/break3",
+      "squidcoder:block/azalea/break4",
+      "squidcoder:block/azalea/break5",
+      "squidcoder:block/azalea/break6"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.flowering_azalea.fall": {
     "sounds": [
-      "block/azalea/step1",
-      "block/azalea/step2",
-      "block/azalea/step3",
-      "block/azalea/step4",
-      "block/azalea/step5",
-      "block/azalea/step6"
+      "squidcoder:block/azalea/step1",
+      "squidcoder:block/azalea/step2",
+      "squidcoder:block/azalea/step3",
+      "squidcoder:block/azalea/step4",
+      "squidcoder:block/azalea/step5",
+      "squidcoder:block/azalea/step6"
     ]
   },
   "block.flowering_azalea.hit": {
     "sounds": [
-      "block/azalea/step1",
-      "block/azalea/step2",
-      "block/azalea/step3",
-      "block/azalea/step4",
-      "block/azalea/step5",
-      "block/azalea/step6"
+      "squidcoder:block/azalea/step1",
+      "squidcoder:block/azalea/step2",
+      "squidcoder:block/azalea/step3",
+      "squidcoder:block/azalea/step4",
+      "squidcoder:block/azalea/step5",
+      "squidcoder:block/azalea/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.flowering_azalea.place": {
     "sounds": [
-      "block/azalea/break1",
-      "block/azalea/break2",
-      "block/azalea/break3",
-      "block/azalea/break4",
-      "block/azalea/break5",
-      "block/azalea/break6"
+      "squidcoder:block/azalea/break1",
+      "squidcoder:block/azalea/break2",
+      "squidcoder:block/azalea/break3",
+      "squidcoder:block/azalea/break4",
+      "squidcoder:block/azalea/break5",
+      "squidcoder:block/azalea/break6"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.flowering_azalea.step": {
     "sounds": [
-      "block/azalea/step1",
-      "block/azalea/step2",
-      "block/azalea/step3",
-      "block/azalea/step4",
-      "block/azalea/step5",
-      "block/azalea/step6"
+      "squidcoder:block/azalea/step1",
+      "squidcoder:block/azalea/step2",
+      "squidcoder:block/azalea/step3",
+      "squidcoder:block/azalea/step4",
+      "squidcoder:block/azalea/step5",
+      "squidcoder:block/azalea/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.hanging_roots.break": {
     "sounds": [
-      "block/hanging_roots/break1",
-      "block/hanging_roots/break2",
-      "block/hanging_roots/break3",
-      "block/hanging_roots/break4"
+      "squidcoder:block/hanging_roots/break1",
+      "squidcoder:block/hanging_roots/break2",
+      "squidcoder:block/hanging_roots/break3",
+      "squidcoder:block/hanging_roots/break4"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.hanging_roots.fall": {
     "sounds": [
-      "block/hanging_roots/step1",
-      "block/hanging_roots/step2",
-      "block/hanging_roots/step3",
-      "block/hanging_roots/step4",
-      "block/hanging_roots/step5",
-      "block/hanging_roots/step6"
+      "squidcoder:block/hanging_roots/step1",
+      "squidcoder:block/hanging_roots/step2",
+      "squidcoder:block/hanging_roots/step3",
+      "squidcoder:block/hanging_roots/step4",
+      "squidcoder:block/hanging_roots/step5",
+      "squidcoder:block/hanging_roots/step6"
     ]
   },
   "block.hanging_roots.hit": {
     "sounds": [
-      "block/hanging_roots/step1",
-      "block/hanging_roots/step2",
-      "block/hanging_roots/step3",
-      "block/hanging_roots/step4",
-      "block/hanging_roots/step5",
-      "block/hanging_roots/step6"
+      "squidcoder:block/hanging_roots/step1",
+      "squidcoder:block/hanging_roots/step2",
+      "squidcoder:block/hanging_roots/step3",
+      "squidcoder:block/hanging_roots/step4",
+      "squidcoder:block/hanging_roots/step5",
+      "squidcoder:block/hanging_roots/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.hanging_roots.place": {
     "sounds": [
-      "block/hanging_roots/break1",
-      "block/hanging_roots/break2",
-      "block/hanging_roots/break3",
-      "block/hanging_roots/break4"
+      "squidcoder:block/hanging_roots/break1",
+      "squidcoder:block/hanging_roots/break2",
+      "squidcoder:block/hanging_roots/break3",
+      "squidcoder:block/hanging_roots/break4"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.hanging_roots.step": {
     "sounds": [
-      "block/hanging_roots/step1",
-      "block/hanging_roots/step2",
-      "block/hanging_roots/step3",
-      "block/hanging_roots/step4",
-      "block/hanging_roots/step5",
-      "block/hanging_roots/step6"
+      "squidcoder:block/hanging_roots/step1",
+      "squidcoder:block/hanging_roots/step2",
+      "squidcoder:block/hanging_roots/step3",
+      "squidcoder:block/hanging_roots/step4",
+      "squidcoder:block/hanging_roots/step5",
+      "squidcoder:block/hanging_roots/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.large_amethyst_bud.break": {
     "sounds": [
       {
-        "name": "block/amethyst_cluster/break1",
+        "name": "squidcoder:block/amethyst_cluster/break1",
         "pitch": 0.85,
         "volume": 0.7
       },
       {
-        "name": "block/amethyst_cluster/break2",
+        "name": "squidcoder:block/amethyst_cluster/break2",
         "pitch": 0.85,
         "volume": 0.7
       },
       {
-        "name": "block/amethyst_cluster/break3",
+        "name": "squidcoder:block/amethyst_cluster/break3",
         "pitch": 0.85,
         "volume": 0.7
       },
       {
-        "name": "block/amethyst_cluster/break4",
+        "name": "squidcoder:block/amethyst_cluster/break4",
         "pitch": 0.85,
         "volume": 0.7
       }
@@ -1855,19 +1855,19 @@
   "block.large_amethyst_bud.place": {
     "sounds": [
       {
-        "name": "block/amethyst_cluster/place1",
+        "name": "squidcoder:block/amethyst_cluster/place1",
         "volume": 0.75
       },
       {
-        "name": "block/amethyst_cluster/place2",
+        "name": "squidcoder:block/amethyst_cluster/place2",
         "volume": 0.75
       },
       {
-        "name": "block/amethyst_cluster/place3",
+        "name": "squidcoder:block/amethyst_cluster/place3",
         "volume": 0.75
       },
       {
-        "name": "block/amethyst_cluster/place4",
+        "name": "squidcoder:block/amethyst_cluster/place4",
         "volume": 0.75
       }
     ],
@@ -1876,22 +1876,22 @@
   "block.medium_amethyst_bud.break": {
     "sounds": [
       {
-        "name": "block/amethyst_cluster/break1",
+        "name": "squidcoder:block/amethyst_cluster/break1",
         "pitch": 0.95,
         "volume": 0.55
       },
       {
-        "name": "block/amethyst_cluster/break2",
+        "name": "squidcoder:block/amethyst_cluster/break2",
         "pitch": 0.95,
         "volume": 0.55
       },
       {
-        "name": "block/amethyst_cluster/break3",
+        "name": "squidcoder:block/amethyst_cluster/break3",
         "pitch": 0.95,
         "volume": 0.55
       },
       {
-        "name": "block/amethyst_cluster/break4",
+        "name": "squidcoder:block/amethyst_cluster/break4",
         "pitch": 0.95,
         "volume": 0.55
       }
@@ -1901,22 +1901,22 @@
   "block.medium_amethyst_bud.place": {
     "sounds": [
       {
-        "name": "block/amethyst_cluster/place1",
+        "name": "squidcoder:block/amethyst_cluster/place1",
         "pitch": 1.1,
         "volume": 0.5
       },
       {
-        "name": "block/amethyst_cluster/place2",
+        "name": "squidcoder:block/amethyst_cluster/place2",
         "pitch": 1.1,
         "volume": 0.5
       },
       {
-        "name": "block/amethyst_cluster/place3",
+        "name": "squidcoder:block/amethyst_cluster/place3",
         "pitch": 1.1,
         "volume": 0.5
       },
       {
-        "name": "block/amethyst_cluster/place4",
+        "name": "squidcoder:block/amethyst_cluster/place4",
         "pitch": 1.1,
         "volume": 0.5
       }
@@ -1926,23 +1926,23 @@
   "block.moss.break": {
     "sounds": [
       {
-        "name": "block/moss/break1",
+        "name": "squidcoder:block/moss/break1",
         "volume": 0.95
       },
       {
-        "name": "block/moss/break2",
+        "name": "squidcoder:block/moss/break2",
         "volume": 0.93
       },
       {
-        "name": "block/moss/break3",
+        "name": "squidcoder:block/moss/break3",
         "volume": 0.93
       },
       {
-        "name": "block/moss/break4",
+        "name": "squidcoder:block/moss/break4",
         "volume": 0.93
       },
       {
-        "name": "block/moss/break5",
+        "name": "squidcoder:block/moss/break5",
         "volume": 0.93
       }
     ],
@@ -1950,45 +1950,45 @@
   },
   "block.moss.fall": {
     "sounds": [
-      "block/moss/step1",
-      "block/moss/step2",
-      "block/moss/step3",
-      "block/moss/step4",
-      "block/moss/step5",
-      "block/moss/step6"
+      "squidcoder:block/moss/step1",
+      "squidcoder:block/moss/step2",
+      "squidcoder:block/moss/step3",
+      "squidcoder:block/moss/step4",
+      "squidcoder:block/moss/step5",
+      "squidcoder:block/moss/step6"
     ]
   },
   "block.moss.hit": {
     "sounds": [
-      "block/moss/step1",
-      "block/moss/step2",
-      "block/moss/step3",
-      "block/moss/step4",
-      "block/moss/step5",
-      "block/moss/step6"
+      "squidcoder:block/moss/step1",
+      "squidcoder:block/moss/step2",
+      "squidcoder:block/moss/step3",
+      "squidcoder:block/moss/step4",
+      "squidcoder:block/moss/step5",
+      "squidcoder:block/moss/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.moss.place": {
     "sounds": [
       {
-        "name": "block/moss/break1",
+        "name": "squidcoder:block/moss/break1",
         "volume": 0.93
       },
       {
-        "name": "block/moss/break2",
+        "name": "squidcoder:block/moss/break2",
         "volume": 0.93
       },
       {
-        "name": "block/moss/break3",
+        "name": "squidcoder:block/moss/break3",
         "volume": 0.93
       },
       {
-        "name": "block/moss/break4",
+        "name": "squidcoder:block/moss/break4",
         "volume": 0.93
       },
       {
-        "name": "block/moss/break5",
+        "name": "squidcoder:block/moss/break5",
         "volume": 0.93
       }
     ],
@@ -1996,39 +1996,39 @@
   },
   "block.moss.step": {
     "sounds": [
-      "block/moss/step1",
-      "block/moss/step2",
-      "block/moss/step3",
-      "block/moss/step4",
-      "block/moss/step5",
-      "block/moss/step6"
+      "squidcoder:block/moss/step1",
+      "squidcoder:block/moss/step2",
+      "squidcoder:block/moss/step3",
+      "squidcoder:block/moss/step4",
+      "squidcoder:block/moss/step5",
+      "squidcoder:block/moss/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.moss_carpet.break": {
     "sounds": [
       {
-        "name": "block/moss/break1",
+        "name": "squidcoder:block/moss/break1",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/break2",
+        "name": "squidcoder:block/moss/break2",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/break3",
+        "name": "squidcoder:block/moss/break3",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/break4",
+        "name": "squidcoder:block/moss/break4",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/break5",
+        "name": "squidcoder:block/moss/break5",
         "volume": 0.9,
         "pitch": 1.1
       }
@@ -2038,32 +2038,32 @@
   "block.moss_carpet.fall": {
     "sounds": [
       {
-        "name": "block/moss/step1",
+        "name": "squidcoder:block/moss/step1",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step2",
+        "name": "squidcoder:block/moss/step2",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step3",
+        "name": "squidcoder:block/moss/step3",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step4",
+        "name": "squidcoder:block/moss/step4",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step5",
+        "name": "squidcoder:block/moss/step5",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step6",
+        "name": "squidcoder:block/moss/step6",
         "volume": 0.9,
         "pitch": 1.1
       }
@@ -2072,32 +2072,32 @@
   "block.moss_carpet.hit": {
     "sounds": [
       {
-        "name": "block/moss/step1",
+        "name": "squidcoder:block/moss/step1",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step2",
+        "name": "squidcoder:block/moss/step2",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step3",
+        "name": "squidcoder:block/moss/step3",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step4",
+        "name": "squidcoder:block/moss/step4",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step5",
+        "name": "squidcoder:block/moss/step5",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step6",
+        "name": "squidcoder:block/moss/step6",
         "volume": 0.9,
         "pitch": 1.1
       }
@@ -2107,27 +2107,27 @@
   "block.moss_carpet.place": {
     "sounds": [
       {
-        "name": "block/moss/break1",
+        "name": "squidcoder:block/moss/break1",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/break2",
+        "name": "squidcoder:block/moss/break2",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/break3",
+        "name": "squidcoder:block/moss/break3",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/break4",
+        "name": "squidcoder:block/moss/break4",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/break5",
+        "name": "squidcoder:block/moss/break5",
         "volume": 0.9,
         "pitch": 1.1
       }
@@ -2137,32 +2137,32 @@
   "block.moss_carpet.step": {
     "sounds": [
       {
-        "name": "block/moss/step1",
+        "name": "squidcoder:block/moss/step1",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step2",
+        "name": "squidcoder:block/moss/step2",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step3",
+        "name": "squidcoder:block/moss/step3",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step4",
+        "name": "squidcoder:block/moss/step4",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step5",
+        "name": "squidcoder:block/moss/step5",
         "volume": 0.9,
         "pitch": 1.1
       },
       {
-        "name": "block/moss/step6",
+        "name": "squidcoder:block/moss/step6",
         "volume": 0.9,
         "pitch": 1.1
       }
@@ -2171,245 +2171,245 @@
   },
   "block.pointed_dripstone.break": {
     "sounds": [
-      "block/dripstone/break1",
-      "block/dripstone/break2",
-      "block/dripstone/break3",
-      "block/dripstone/break4",
-      "block/dripstone/break5"
+      "squidcoder:block/dripstone/break1",
+      "squidcoder:block/dripstone/break2",
+      "squidcoder:block/dripstone/break3",
+      "squidcoder:block/dripstone/break4",
+      "squidcoder:block/dripstone/break5"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.pointed_dripstone.drip_lava": {
     "sounds": [
-      "block/pointed_dripstone/drip_lava1",
-      "block/pointed_dripstone/drip_lava2",
-      "block/pointed_dripstone/drip_lava3",
-      "block/pointed_dripstone/drip_lava4",
-      "block/pointed_dripstone/drip_lava5",
-      "block/pointed_dripstone/drip_lava6"
+      "squidcoder:block/pointed_dripstone/drip_lava1",
+      "squidcoder:block/pointed_dripstone/drip_lava2",
+      "squidcoder:block/pointed_dripstone/drip_lava3",
+      "squidcoder:block/pointed_dripstone/drip_lava4",
+      "squidcoder:block/pointed_dripstone/drip_lava5",
+      "squidcoder:block/pointed_dripstone/drip_lava6"
     ],
     "subtitle": "subtitles.block.pointed_dripstone.drip_lava"
   },
   "block.pointed_dripstone.drip_lava_into_cauldron": {
     "sounds": [
-      "block/pointed_dripstone/drip_lava_cauldron1",
-      "block/pointed_dripstone/drip_lava_cauldron2",
-      "block/pointed_dripstone/drip_lava_cauldron3",
-      "block/pointed_dripstone/drip_lava_cauldron4"
+      "squidcoder:block/pointed_dripstone/drip_lava_cauldron1",
+      "squidcoder:block/pointed_dripstone/drip_lava_cauldron2",
+      "squidcoder:block/pointed_dripstone/drip_lava_cauldron3",
+      "squidcoder:block/pointed_dripstone/drip_lava_cauldron4"
     ],
     "subtitle": "subtitles.block.pointed_dripstone.drip_lava_into_cauldron"
   },
   "block.pointed_dripstone.drip_water": {
     "sounds": [
-      "block/pointed_dripstone/drip_water1",
-      "block/pointed_dripstone/drip_water2",
-      "block/pointed_dripstone/drip_water3",
-      "block/pointed_dripstone/drip_water4",
-      "block/pointed_dripstone/drip_water5",
-      "block/pointed_dripstone/drip_water6",
-      "block/pointed_dripstone/drip_water7",
-      "block/pointed_dripstone/drip_water8",
-      "block/pointed_dripstone/drip_water9",
-      "block/pointed_dripstone/drip_water10",
-      "block/pointed_dripstone/drip_water11",
-      "block/pointed_dripstone/drip_water12",
-      "block/pointed_dripstone/drip_water13",
-      "block/pointed_dripstone/drip_water14",
-      "block/pointed_dripstone/drip_water15"
+      "squidcoder:block/pointed_dripstone/drip_water1",
+      "squidcoder:block/pointed_dripstone/drip_water2",
+      "squidcoder:block/pointed_dripstone/drip_water3",
+      "squidcoder:block/pointed_dripstone/drip_water4",
+      "squidcoder:block/pointed_dripstone/drip_water5",
+      "squidcoder:block/pointed_dripstone/drip_water6",
+      "squidcoder:block/pointed_dripstone/drip_water7",
+      "squidcoder:block/pointed_dripstone/drip_water8",
+      "squidcoder:block/pointed_dripstone/drip_water9",
+      "squidcoder:block/pointed_dripstone/drip_water10",
+      "squidcoder:block/pointed_dripstone/drip_water11",
+      "squidcoder:block/pointed_dripstone/drip_water12",
+      "squidcoder:block/pointed_dripstone/drip_water13",
+      "squidcoder:block/pointed_dripstone/drip_water14",
+      "squidcoder:block/pointed_dripstone/drip_water15"
     ],
     "subtitle": "subtitles.block.pointed_dripstone.drip_water"
   },
   "block.pointed_dripstone.drip_water_into_cauldron": {
     "sounds": [
-      "block/pointed_dripstone/drip_water_cauldron1",
-      "block/pointed_dripstone/drip_water_cauldron2",
-      "block/pointed_dripstone/drip_water_cauldron3",
-      "block/pointed_dripstone/drip_water_cauldron4",
-      "block/pointed_dripstone/drip_water_cauldron5",
-      "block/pointed_dripstone/drip_water_cauldron6",
-      "block/pointed_dripstone/drip_water_cauldron7",
-      "block/pointed_dripstone/drip_water_cauldron8"
+      "squidcoder:block/pointed_dripstone/drip_water_cauldron1",
+      "squidcoder:block/pointed_dripstone/drip_water_cauldron2",
+      "squidcoder:block/pointed_dripstone/drip_water_cauldron3",
+      "squidcoder:block/pointed_dripstone/drip_water_cauldron4",
+      "squidcoder:block/pointed_dripstone/drip_water_cauldron5",
+      "squidcoder:block/pointed_dripstone/drip_water_cauldron6",
+      "squidcoder:block/pointed_dripstone/drip_water_cauldron7",
+      "squidcoder:block/pointed_dripstone/drip_water_cauldron8"
     ],
     "subtitle": "subtitles.block.pointed_dripstone.drip_water_into_cauldron"
   },
   "block.pointed_dripstone.fall": {
     "sounds": [
-      "block/dripstone/step1",
-      "block/dripstone/step2",
-      "block/dripstone/step3",
-      "block/dripstone/step4",
-      "block/dripstone/step5",
-      "block/dripstone/step6"
+      "squidcoder:block/dripstone/step1",
+      "squidcoder:block/dripstone/step2",
+      "squidcoder:block/dripstone/step3",
+      "squidcoder:block/dripstone/step4",
+      "squidcoder:block/dripstone/step5",
+      "squidcoder:block/dripstone/step6"
     ]
   },
   "block.pointed_dripstone.hit": {
     "sounds": [
-      "block/dripstone/step1",
-      "block/dripstone/step2",
-      "block/dripstone/step3",
-      "block/dripstone/step4",
-      "block/dripstone/step5",
-      "block/dripstone/step6"
+      "squidcoder:block/dripstone/step1",
+      "squidcoder:block/dripstone/step2",
+      "squidcoder:block/dripstone/step3",
+      "squidcoder:block/dripstone/step4",
+      "squidcoder:block/dripstone/step5",
+      "squidcoder:block/dripstone/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.pointed_dripstone.land": {
     "sounds": [
-      "block/pointed_dripstone/land1",
-      "block/pointed_dripstone/land2",
-      "block/pointed_dripstone/land3",
-      "block/pointed_dripstone/land4",
-      "block/pointed_dripstone/land5"
+      "squidcoder:block/pointed_dripstone/land1",
+      "squidcoder:block/pointed_dripstone/land2",
+      "squidcoder:block/pointed_dripstone/land3",
+      "squidcoder:block/pointed_dripstone/land4",
+      "squidcoder:block/pointed_dripstone/land5"
     ]
   },
   "block.pointed_dripstone.place": {
     "sounds": [
-      "block/dripstone/break1",
-      "block/dripstone/break2",
-      "block/dripstone/break3",
-      "block/dripstone/break4",
-      "block/dripstone/break5"
+      "squidcoder:block/dripstone/break1",
+      "squidcoder:block/dripstone/break2",
+      "squidcoder:block/dripstone/break3",
+      "squidcoder:block/dripstone/break4",
+      "squidcoder:block/dripstone/break5"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.pointed_dripstone.step": {
     "sounds": [
-      "block/dripstone/step1",
-      "block/dripstone/step2",
-      "block/dripstone/step3",
-      "block/dripstone/step4",
-      "block/dripstone/step5",
-      "block/dripstone/step6"
+      "squidcoder:block/dripstone/step1",
+      "squidcoder:block/dripstone/step2",
+      "squidcoder:block/dripstone/step3",
+      "squidcoder:block/dripstone/step4",
+      "squidcoder:block/dripstone/step5",
+      "squidcoder:block/dripstone/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.polished_deepslate.break": {
     "sounds": [
-      "block/deepslate/break1",
-      "block/deepslate/break2",
-      "block/deepslate/break3",
-      "block/deepslate/break4"
+      "squidcoder:block/deepslate/break1",
+      "squidcoder:block/deepslate/break2",
+      "squidcoder:block/deepslate/break3",
+      "squidcoder:block/deepslate/break4"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.polished_deepslate.fall": {
     "sounds": [
-      "block/deepslate/step1",
-      "block/deepslate/step2",
-      "block/deepslate/step3",
-      "block/deepslate/step4",
-      "block/deepslate/step5",
-      "block/deepslate/step6"
+      "squidcoder:block/deepslate/step1",
+      "squidcoder:block/deepslate/step2",
+      "squidcoder:block/deepslate/step3",
+      "squidcoder:block/deepslate/step4",
+      "squidcoder:block/deepslate/step5",
+      "squidcoder:block/deepslate/step6"
     ]
   },
   "block.polished_deepslate.hit": {
     "sounds": [
-      "block/deepslate/step1",
-      "block/deepslate/step2",
-      "block/deepslate/step3",
-      "block/deepslate/step4",
-      "block/deepslate/step5",
-      "block/deepslate/step6"
+      "squidcoder:block/deepslate/step1",
+      "squidcoder:block/deepslate/step2",
+      "squidcoder:block/deepslate/step3",
+      "squidcoder:block/deepslate/step4",
+      "squidcoder:block/deepslate/step5",
+      "squidcoder:block/deepslate/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.polished_deepslate.place": {
     "sounds": [
-      "block/deepslate/place1",
-      "block/deepslate/place2",
-      "block/deepslate/place3",
-      "block/deepslate/place4",
-      "block/deepslate/place5",
-      "block/deepslate/place6"
+      "squidcoder:block/deepslate/place1",
+      "squidcoder:block/deepslate/place2",
+      "squidcoder:block/deepslate/place3",
+      "squidcoder:block/deepslate/place4",
+      "squidcoder:block/deepslate/place5",
+      "squidcoder:block/deepslate/place6"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.polished_deepslate.step": {
     "sounds": [
-      "block/deepslate/step1",
-      "block/deepslate/step2",
-      "block/deepslate/step3",
-      "block/deepslate/step4",
-      "block/deepslate/step5",
-      "block/deepslate/step6"
+      "squidcoder:block/deepslate/step1",
+      "squidcoder:block/deepslate/step2",
+      "squidcoder:block/deepslate/step3",
+      "squidcoder:block/deepslate/step4",
+      "squidcoder:block/deepslate/step5",
+      "squidcoder:block/deepslate/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.powder_snow.break": {
     "sounds": [
-      "block/powder_snow/break1",
-      "block/powder_snow/break2",
-      "block/powder_snow/break3",
-      "block/powder_snow/break4",
-      "block/powder_snow/break5",
-      "block/powder_snow/break6",
-      "block/powder_snow/break7"
+      "squidcoder:block/powder_snow/break1",
+      "squidcoder:block/powder_snow/break2",
+      "squidcoder:block/powder_snow/break3",
+      "squidcoder:block/powder_snow/break4",
+      "squidcoder:block/powder_snow/break5",
+      "squidcoder:block/powder_snow/break6",
+      "squidcoder:block/powder_snow/break7"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.powder_snow.fall": {
     "sounds": [
-      "block/powder_snow/step1",
-      "block/powder_snow/step2",
-      "block/powder_snow/step3",
-      "block/powder_snow/step4",
-      "block/powder_snow/step5",
-      "block/powder_snow/step6",
-      "block/powder_snow/step7",
-      "block/powder_snow/step8",
-      "block/powder_snow/step9",
-      "block/powder_snow/step10"
+      "squidcoder:block/powder_snow/step1",
+      "squidcoder:block/powder_snow/step2",
+      "squidcoder:block/powder_snow/step3",
+      "squidcoder:block/powder_snow/step4",
+      "squidcoder:block/powder_snow/step5",
+      "squidcoder:block/powder_snow/step6",
+      "squidcoder:block/powder_snow/step7",
+      "squidcoder:block/powder_snow/step8",
+      "squidcoder:block/powder_snow/step9",
+      "squidcoder:block/powder_snow/step10"
     ]
   },
   "block.powder_snow.hit": {
     "sounds": [
       {
-        "name": "block/powder_snow/step1",
+        "name": "squidcoder:block/powder_snow/step1",
         "volume": 0.83,
         "pitch": 1.3
       },
       {
-        "name": "block/powder_snow/step2",
+        "name": "squidcoder:block/powder_snow/step2",
         "volume": 0.83,
         "pitch": 1.3
       },
       {
-        "name": "block/powder_snow/step3",
+        "name": "squidcoder:block/powder_snow/step3",
         "volume": 0.83,
         "pitch": 1.3
       },
       {
-        "name": "block/powder_snow/step4",
+        "name": "squidcoder:block/powder_snow/step4",
         "volume": 0.83,
         "pitch": 1.3
       },
       {
-        "name": "block/powder_snow/step5",
+        "name": "squidcoder:block/powder_snow/step5",
         "volume": 0.83,
         "pitch": 1.3
       },
       {
-        "name": "block/powder_snow/step6",
+        "name": "squidcoder:block/powder_snow/step6",
         "volume": 0.83,
         "pitch": 1.3
       },
       {
-        "name": "block/powder_snow/step7",
+        "name": "squidcoder:block/powder_snow/step7",
         "volume": 0.83,
         "pitch": 1.3
       },
       {
-        "name": "block/powder_snow/step8",
+        "name": "squidcoder:block/powder_snow/step8",
         "volume": 0.83,
         "pitch": 1.3
       },
       {
-        "name": "block/powder_snow/step9",
+        "name": "squidcoder:block/powder_snow/step9",
         "volume": 0.83,
         "pitch": 1.3
       },
       {
-        "name": "block/powder_snow/step10",
+        "name": "squidcoder:block/powder_snow/step10",
         "volume": 0.83,
         "pitch": 1.3
       }
@@ -2418,74 +2418,74 @@
   },
   "block.powder_snow.place": {
     "sounds": [
-      "block/powder_snow/break1",
-      "block/powder_snow/break2",
-      "block/powder_snow/break3",
-      "block/powder_snow/break4",
-      "block/powder_snow/break5",
-      "block/powder_snow/break6",
-      "block/powder_snow/break7"
+      "squidcoder:block/powder_snow/break1",
+      "squidcoder:block/powder_snow/break2",
+      "squidcoder:block/powder_snow/break3",
+      "squidcoder:block/powder_snow/break4",
+      "squidcoder:block/powder_snow/break5",
+      "squidcoder:block/powder_snow/break6",
+      "squidcoder:block/powder_snow/break7"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.powder_snow.step": {
     "sounds": [
-      "block/powder_snow/step1",
-      "block/powder_snow/step2",
-      "block/powder_snow/step3",
-      "block/powder_snow/step4",
-      "block/powder_snow/step5",
-      "block/powder_snow/step6",
-      "block/powder_snow/step7",
-      "block/powder_snow/step8",
-      "block/powder_snow/step9",
-      "block/powder_snow/step10"
+      "squidcoder:block/powder_snow/step1",
+      "squidcoder:block/powder_snow/step2",
+      "squidcoder:block/powder_snow/step3",
+      "squidcoder:block/powder_snow/step4",
+      "squidcoder:block/powder_snow/step5",
+      "squidcoder:block/powder_snow/step6",
+      "squidcoder:block/powder_snow/step7",
+      "squidcoder:block/powder_snow/step8",
+      "squidcoder:block/powder_snow/step9",
+      "squidcoder:block/powder_snow/step10"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.rooted_dirt.break": {
     "sounds": [
-      "block/rooted_dirt/break1",
-      "block/rooted_dirt/break2",
-      "block/rooted_dirt/break3",
-      "block/rooted_dirt/break4"
+      "squidcoder:block/rooted_dirt/break1",
+      "squidcoder:block/rooted_dirt/break2",
+      "squidcoder:block/rooted_dirt/break3",
+      "squidcoder:block/rooted_dirt/break4"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.rooted_dirt.fall": {
     "sounds": [
-      "block/rooted_dirt/step1",
-      "block/rooted_dirt/step2",
-      "block/rooted_dirt/step3",
-      "block/rooted_dirt/step4",
-      "block/rooted_dirt/step5",
-      "block/rooted_dirt/step6"
+      "squidcoder:block/rooted_dirt/step1",
+      "squidcoder:block/rooted_dirt/step2",
+      "squidcoder:block/rooted_dirt/step3",
+      "squidcoder:block/rooted_dirt/step4",
+      "squidcoder:block/rooted_dirt/step5",
+      "squidcoder:block/rooted_dirt/step6"
     ]
   },
   "block.rooted_dirt.hit": {
     "sounds": [
       {
-        "name": "block/rooted_dirt/step1",
+        "name": "squidcoder:block/rooted_dirt/step1",
         "volume": 0.8
       },
       {
-        "name": "block/rooted_dirt/step2",
+        "name": "squidcoder:block/rooted_dirt/step2",
         "volume": 0.8
       },
       {
-        "name": "block/rooted_dirt/step3",
+        "name": "squidcoder:block/rooted_dirt/step3",
         "volume": 0.8
       },
       {
-        "name": "block/rooted_dirt/step4",
+        "name": "squidcoder:block/rooted_dirt/step4",
         "volume": 0.8
       },
       {
-        "name": "block/rooted_dirt/step5",
+        "name": "squidcoder:block/rooted_dirt/step5",
         "volume": 0.8
       },
       {
-        "name": "block/rooted_dirt/step6",
+        "name": "squidcoder:block/rooted_dirt/step6",
         "volume": 0.8
       }
     ],
@@ -2493,32 +2493,32 @@
   },
   "block.rooted_dirt.place": {
     "sounds": [
-      "block/rooted_dirt/break1",
-      "block/rooted_dirt/break2",
-      "block/rooted_dirt/break3",
-      "block/rooted_dirt/break4"
+      "squidcoder:block/rooted_dirt/break1",
+      "squidcoder:block/rooted_dirt/break2",
+      "squidcoder:block/rooted_dirt/break3",
+      "squidcoder:block/rooted_dirt/break4"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.rooted_dirt.step": {
     "sounds": [
-      "block/rooted_dirt/step1",
-      "block/rooted_dirt/step2",
-      "block/rooted_dirt/step3",
-      "block/rooted_dirt/step4",
-      "block/rooted_dirt/step5",
-      "block/rooted_dirt/step6"
+      "squidcoder:block/rooted_dirt/step1",
+      "squidcoder:block/rooted_dirt/step2",
+      "squidcoder:block/rooted_dirt/step3",
+      "squidcoder:block/rooted_dirt/step4",
+      "squidcoder:block/rooted_dirt/step5",
+      "squidcoder:block/rooted_dirt/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.roots.break": {
     "sounds": [
-      "block/roots/break1",
-      "block/roots/break2",
-      "block/roots/break3",
-      "block/roots/break4",
-      "block/roots/break5",
-      "block/roots/break6"
+      "squidcoder:block/roots/break1",
+      "squidcoder:block/roots/break2",
+      "squidcoder:block/roots/break3",
+      "squidcoder:block/roots/break4",
+      "squidcoder:block/roots/break5",
+      "squidcoder:block/roots/break6"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
@@ -2531,12 +2531,12 @@
   },
   "block.roots.place": {
     "sounds": [
-      "block/roots/break1",
-      "block/roots/break2",
-      "block/roots/break3",
-      "block/roots/break4",
-      "block/roots/break5",
-      "block/roots/break6"
+      "squidcoder:block/roots/break1",
+      "squidcoder:block/roots/break2",
+      "squidcoder:block/roots/break3",
+      "squidcoder:block/roots/break4",
+      "squidcoder:block/roots/break5",
+      "squidcoder:block/roots/break6"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
@@ -2547,27 +2547,27 @@
   "block.sculk_sensor.break": {
     "sounds": [
       {
-        "name": "block/sculk_sensor/break1",
+        "name": "squidcoder:block/sculk_sensor/break1",
         "pitch": 1.2,
         "volume": 0.9
       },
       {
-        "name": "block/sculk_sensor/break2",
+        "name": "squidcoder:block/sculk_sensor/break2",
         "pitch": 1.2,
         "volume": 0.9
       },
       {
-        "name": "block/sculk_sensor/break3",
+        "name": "squidcoder:block/sculk_sensor/break3",
         "pitch": 1.2,
         "volume": 0.9
       },
       {
-        "name": "block/sculk_sensor/break4",
+        "name": "squidcoder:block/sculk_sensor/break4",
         "pitch": 1.2,
         "volume": 0.9
       },
       {
-        "name": "block/sculk_sensor/break5",
+        "name": "squidcoder:block/sculk_sensor/break5",
         "pitch": 1.2,
         "volume": 0.9
       }
@@ -2577,27 +2577,27 @@
   "block.sculk_sensor.clicking": {
     "sounds": [
       {
-        "name": "block/sculk_sensor/sculk_clicking1",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking1",
         "volume": 0.73
       },
       {
-        "name": "block/sculk_sensor/sculk_clicking2",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking2",
         "volume": 0.73
       },
       {
-        "name": "block/sculk_sensor/sculk_clicking3",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking3",
         "volume": 0.73
       },
       {
-        "name": "block/sculk_sensor/sculk_clicking4",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking4",
         "volume": 0.73
       },
       {
-        "name": "block/sculk_sensor/sculk_clicking5",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking5",
         "volume": 0.73
       },
       {
-        "name": "block/sculk_sensor/sculk_clicking6",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking6",
         "volume": 0.73
       }
     ],
@@ -2606,23 +2606,23 @@
   "block.sculk_sensor.clicking_stop": {
     "sounds": [
       {
-        "name": "block/sculk_sensor/sculk_clicking_stop1",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking_stop1",
         "volume": 0.62
       },
       {
-        "name": "block/sculk_sensor/sculk_clicking_stop2",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking_stop2",
         "volume": 0.62
       },
       {
-        "name": "block/sculk_sensor/sculk_clicking_stop3",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking_stop3",
         "volume": 0.62
       },
       {
-        "name": "block/sculk_sensor/sculk_clicking_stop4",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking_stop4",
         "volume": 0.62
       },
       {
-        "name": "block/sculk_sensor/sculk_clicking_stop5",
+        "name": "squidcoder:block/sculk_sensor/sculk_clicking_stop5",
         "volume": 0.62
       }
     ],
@@ -2631,27 +2631,27 @@
   "block.sculk_sensor.fall": {
     "sounds": [
       {
-        "name": "block/sculk/step1",
+        "name": "squidcoder:block/sculk/step1",
         "volume": 1
       },
       {
-        "name": "block/sculk/step2",
+        "name": "squidcoder:block/sculk/step2",
         "volume": 1
       },
       {
-        "name": "block/sculk/step3",
+        "name": "squidcoder:block/sculk/step3",
         "volume": 1
       },
       {
-        "name": "block/sculk/step4",
+        "name": "squidcoder:block/sculk/step4",
         "volume": 1
       },
       {
-        "name": "block/sculk/step5",
+        "name": "squidcoder:block/sculk/step5",
         "volume": 1
       },
       {
-        "name": "block/sculk/step6",
+        "name": "squidcoder:block/sculk/step6",
         "volume": 1
       }
     ]
@@ -2659,27 +2659,27 @@
   "block.sculk_sensor.hit": {
     "sounds": [
       {
-        "name": "block/sculk/step1",
+        "name": "squidcoder:block/sculk/step1",
         "volume": 1
       },
       {
-        "name": "block/sculk/step2",
+        "name": "squidcoder:block/sculk/step2",
         "volume": 1
       },
       {
-        "name": "block/sculk/step3",
+        "name": "squidcoder:block/sculk/step3",
         "volume": 1
       },
       {
-        "name": "block/sculk/step4",
+        "name": "squidcoder:block/sculk/step4",
         "volume": 1
       },
       {
-        "name": "block/sculk/step5",
+        "name": "squidcoder:block/sculk/step5",
         "volume": 1
       },
       {
-        "name": "block/sculk/step6",
+        "name": "squidcoder:block/sculk/step6",
         "volume": 1
       }
     ],
@@ -2688,27 +2688,27 @@
   "block.sculk_sensor.place": {
     "sounds": [
       {
-        "name": "block/sculk_sensor/place1",
+        "name": "squidcoder:block/sculk_sensor/place1",
         "pitch": 1.2,
         "volume": 0.8
       },
       {
-        "name": "block/sculk_sensor/place2",
+        "name": "squidcoder:block/sculk_sensor/place2",
         "pitch": 1.2,
         "volume": 0.8
       },
       {
-        "name": "block/sculk_sensor/place3",
+        "name": "squidcoder:block/sculk_sensor/place3",
         "pitch": 1.2,
         "volume": 0.8
       },
       {
-        "name": "block/sculk_sensor/place4",
+        "name": "squidcoder:block/sculk_sensor/place4",
         "pitch": 1.2,
         "volume": 0.8
       },
       {
-        "name": "block/sculk_sensor/place5",
+        "name": "squidcoder:block/sculk_sensor/place5",
         "pitch": 1.2,
         "volume": 0.8
       }
@@ -2718,27 +2718,27 @@
   "block.sculk_sensor.step": {
     "sounds": [
       {
-        "name": "block/sculk/step1",
+        "name": "squidcoder:block/sculk/step1",
         "volume": 1
       },
       {
-        "name": "block/sculk/step2",
+        "name": "squidcoder:block/sculk/step2",
         "volume": 1
       },
       {
-        "name": "block/sculk/step3",
+        "name": "squidcoder:block/sculk/step3",
         "volume": 1
       },
       {
-        "name": "block/sculk/step4",
+        "name": "squidcoder:block/sculk/step4",
         "volume": 1
       },
       {
-        "name": "block/sculk/step5",
+        "name": "squidcoder:block/sculk/step5",
         "volume": 1
       },
       {
-        "name": "block/sculk/step6",
+        "name": "squidcoder:block/sculk/step6",
         "volume": 1
       }
     ],
@@ -2747,19 +2747,19 @@
   "block.small_amethyst_bud.break": {
     "sounds": [
       {
-        "name": "block/amethyst_cluster/break1",
+        "name": "squidcoder:block/amethyst_cluster/break1",
         "volume": 0.4
       },
       {
-        "name": "block/amethyst_cluster/break2",
+        "name": "squidcoder:block/amethyst_cluster/break2",
         "volume": 0.4
       },
       {
-        "name": "block/amethyst_cluster/break3",
+        "name": "squidcoder:block/amethyst_cluster/break3",
         "volume": 0.4
       },
       {
-        "name": "block/amethyst_cluster/break4",
+        "name": "squidcoder:block/amethyst_cluster/break4",
         "volume": 0.4
       }
     ],
@@ -2768,22 +2768,22 @@
   "block.small_amethyst_bud.place": {
     "sounds": [
       {
-        "name": "block/amethyst_cluster/place1",
+        "name": "squidcoder:block/amethyst_cluster/place1",
         "pitch:": 1.2,
         "volume": 0.4
       },
       {
-        "name": "block/amethyst_cluster/place2",
+        "name": "squidcoder:block/amethyst_cluster/place2",
         "pitch:": 1.2,
         "volume": 0.4
       },
       {
-        "name": "block/amethyst_cluster/place3",
+        "name": "squidcoder:block/amethyst_cluster/place3",
         "pitch:": 1.2,
         "volume": 0.4
       },
       {
-        "name": "block/amethyst_cluster/place4",
+        "name": "squidcoder:block/amethyst_cluster/place4",
         "pitch:": 1.2,
         "volume": 0.4
       }
@@ -2793,32 +2793,32 @@
   "block.small_dripleaf.break": {
     "sounds": [
       {
-        "name": "block/big_dripleaf/break1",
+        "name": "squidcoder:block/big_dripleaf/break1",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/break2",
+        "name": "squidcoder:block/big_dripleaf/break2",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/break3",
+        "name": "squidcoder:block/big_dripleaf/break3",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/break4",
+        "name": "squidcoder:block/big_dripleaf/break4",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/break5",
+        "name": "squidcoder:block/big_dripleaf/break5",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/break6",
+        "name": "squidcoder:block/big_dripleaf/break6",
         "volume": 0.9,
         "pitch": 1.2
       }
@@ -2828,32 +2828,32 @@
   "block.small_dripleaf.fall": {
     "sounds": [
       {
-        "name": "block/big_dripleaf/step1",
+        "name": "squidcoder:block/big_dripleaf/step1",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step2",
+        "name": "squidcoder:block/big_dripleaf/step2",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step3",
+        "name": "squidcoder:block/big_dripleaf/step3",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step4",
+        "name": "squidcoder:block/big_dripleaf/step4",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step5",
+        "name": "squidcoder:block/big_dripleaf/step5",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step6",
+        "name": "squidcoder:block/big_dripleaf/step6",
         "volume": 0.9,
         "pitch": 1.2
       }
@@ -2862,32 +2862,32 @@
   "block.small_dripleaf.hit": {
     "sounds": [
       {
-        "name": "block/big_dripleaf/step1",
+        "name": "squidcoder:block/big_dripleaf/step1",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step2",
+        "name": "squidcoder:block/big_dripleaf/step2",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step3",
+        "name": "squidcoder:block/big_dripleaf/step3",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step4",
+        "name": "squidcoder:block/big_dripleaf/step4",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step5",
+        "name": "squidcoder:block/big_dripleaf/step5",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step6",
+        "name": "squidcoder:block/big_dripleaf/step6",
         "volume": 0.9,
         "pitch": 1.2
       }
@@ -2897,32 +2897,32 @@
   "block.small_dripleaf.place": {
     "sounds": [
       {
-        "name": "block/big_dripleaf/break1",
+        "name": "squidcoder:block/big_dripleaf/break1",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/break2",
+        "name": "squidcoder:block/big_dripleaf/break2",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/break3",
+        "name": "squidcoder:block/big_dripleaf/break3",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/break4",
+        "name": "squidcoder:block/big_dripleaf/break4",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/break5",
+        "name": "squidcoder:block/big_dripleaf/break5",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/break6",
+        "name": "squidcoder:block/big_dripleaf/break6",
         "volume": 0.9,
         "pitch": 1.2
       }
@@ -2932,32 +2932,32 @@
   "block.small_dripleaf.step": {
     "sounds": [
       {
-        "name": "block/big_dripleaf/step1",
+        "name": "squidcoder:block/big_dripleaf/step1",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step2",
+        "name": "squidcoder:block/big_dripleaf/step2",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step3",
+        "name": "squidcoder:block/big_dripleaf/step3",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step4",
+        "name": "squidcoder:block/big_dripleaf/step4",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step5",
+        "name": "squidcoder:block/big_dripleaf/step5",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "block/big_dripleaf/step6",
+        "name": "squidcoder:block/big_dripleaf/step6",
         "volume": 0.9,
         "pitch": 1.2
       }
@@ -2966,72 +2966,72 @@
   },
   "block.spore_blossom.break": {
     "sounds": [
-      "block/spore_blossom/break1",
-      "block/spore_blossom/break2",
-      "block/spore_blossom/break3",
-      "block/spore_blossom/break4",
-      "block/spore_blossom/break5"
+      "squidcoder:block/spore_blossom/break1",
+      "squidcoder:block/spore_blossom/break2",
+      "squidcoder:block/spore_blossom/break3",
+      "squidcoder:block/spore_blossom/break4",
+      "squidcoder:block/spore_blossom/break5"
     ],
     "subtitle": "subtitles.block.generic.break"
   },
   "block.spore_blossom.fall": {
     "sounds": [
-      "block/spore_blossom/step1",
-      "block/spore_blossom/step2",
-      "block/spore_blossom/step3",
-      "block/spore_blossom/step4",
-      "block/spore_blossom/step5",
-      "block/spore_blossom/step6"
+      "squidcoder:block/spore_blossom/step1",
+      "squidcoder:block/spore_blossom/step2",
+      "squidcoder:block/spore_blossom/step3",
+      "squidcoder:block/spore_blossom/step4",
+      "squidcoder:block/spore_blossom/step5",
+      "squidcoder:block/spore_blossom/step6"
     ]
   },
   "block.spore_blossom.hit": {
     "sounds": [
-      "block/spore_blossom/step1",
-      "block/spore_blossom/step2",
-      "block/spore_blossom/step3",
-      "block/spore_blossom/step4",
-      "block/spore_blossom/step5",
-      "block/spore_blossom/step6"
+      "squidcoder:block/spore_blossom/step1",
+      "squidcoder:block/spore_blossom/step2",
+      "squidcoder:block/spore_blossom/step3",
+      "squidcoder:block/spore_blossom/step4",
+      "squidcoder:block/spore_blossom/step5",
+      "squidcoder:block/spore_blossom/step6"
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
   "block.spore_blossom.place": {
     "sounds": [
-      "block/spore_blossom/break1",
-      "block/spore_blossom/break2",
-      "block/spore_blossom/break3",
-      "block/spore_blossom/break4",
-      "block/spore_blossom/break5"
+      "squidcoder:block/spore_blossom/break1",
+      "squidcoder:block/spore_blossom/break2",
+      "squidcoder:block/spore_blossom/break3",
+      "squidcoder:block/spore_blossom/break4",
+      "squidcoder:block/spore_blossom/break5"
     ],
     "subtitle": "subtitles.block.generic.place"
   },
   "block.spore_blossom.step": {
     "sounds": [
-      "block/spore_blossom/step1",
-      "block/spore_blossom/step2",
-      "block/spore_blossom/step3",
-      "block/spore_blossom/step4",
-      "block/spore_blossom/step5",
-      "block/spore_blossom/step6"
+      "squidcoder:block/spore_blossom/step1",
+      "squidcoder:block/spore_blossom/step2",
+      "squidcoder:block/spore_blossom/step3",
+      "squidcoder:block/spore_blossom/step4",
+      "squidcoder:block/spore_blossom/step5",
+      "squidcoder:block/spore_blossom/step6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.tuff.break": {
     "sounds": [
       {
-        "name": "block/tuff/break1",
+        "name": "squidcoder:block/tuff/break1",
         "volume": 1
       },
       {
-        "name": "block/tuff/break2",
+        "name": "squidcoder:block/tuff/break2",
         "volume": 1
       },
       {
-        "name": "block/tuff/break3",
+        "name": "squidcoder:block/tuff/break3",
         "volume": 1
       },
       {
-        "name": "block/tuff/break4",
+        "name": "squidcoder:block/tuff/break4",
         "volume": 1
       }
     ],
@@ -3040,27 +3040,27 @@
   "block.tuff.fall": {
     "sounds": [
       {
-        "name": "block/tuff/step1",
+        "name": "squidcoder:block/tuff/step1",
         "volume": 1
       },
       {
-        "name": "block/tuff/step2",
+        "name": "squidcoder:block/tuff/step2",
         "volume": 1
       },
       {
-        "name": "block/tuff/step3",
+        "name": "squidcoder:block/tuff/step3",
         "volume": 1
       },
       {
-        "name": "block/tuff/step4",
+        "name": "squidcoder:block/tuff/step4",
         "volume": 1
       },
       {
-        "name": "block/tuff/step5",
+        "name": "squidcoder:block/tuff/step5",
         "volume": 1
       },
       {
-        "name": "block/tuff/step6",
+        "name": "squidcoder:block/tuff/step6",
         "volume": 1
       }
     ]
@@ -3068,27 +3068,27 @@
   "block.tuff.hit": {
     "sounds": [
       {
-        "name": "block/tuff/step1",
+        "name": "squidcoder:block/tuff/step1",
         "volume": 1
       },
       {
-        "name": "block/tuff/step2",
+        "name": "squidcoder:block/tuff/step2",
         "volume": 1
       },
       {
-        "name": "block/tuff/step3",
+        "name": "squidcoder:block/tuff/step3",
         "volume": 1
       },
       {
-        "name": "block/tuff/step4",
+        "name": "squidcoder:block/tuff/step4",
         "volume": 1
       },
       {
-        "name": "block/tuff/step5",
+        "name": "squidcoder:block/tuff/step5",
         "volume": 1
       },
       {
-        "name": "block/tuff/step6",
+        "name": "squidcoder:block/tuff/step6",
         "volume": 1
       }
     ],
@@ -3097,19 +3097,19 @@
   "block.tuff.place": {
     "sounds": [
       {
-        "name": "block/tuff/break1",
+        "name": "squidcoder:block/tuff/break1",
         "volume": 1
       },
       {
-        "name": "block/tuff/break2",
+        "name": "squidcoder:block/tuff/break2",
         "volume": 1
       },
       {
-        "name": "block/tuff/break3",
+        "name": "squidcoder:block/tuff/break3",
         "volume": 1
       },
       {
-        "name": "block/tuff/break4",
+        "name": "squidcoder:block/tuff/break4",
         "volume": 1
       }
     ],
@@ -3118,27 +3118,27 @@
   "block.tuff.step": {
     "sounds": [
       {
-        "name": "block/tuff/step1",
+        "name": "squidcoder:block/tuff/step1",
         "volume": 1
       },
       {
-        "name": "block/tuff/step2",
+        "name": "squidcoder:block/tuff/step2",
         "volume": 1
       },
       {
-        "name": "block/tuff/step3",
+        "name": "squidcoder:block/tuff/step3",
         "volume": 1
       },
       {
-        "name": "block/tuff/step4",
+        "name": "squidcoder:block/tuff/step4",
         "volume": 1
       },
       {
-        "name": "block/tuff/step5",
+        "name": "squidcoder:block/tuff/step5",
         "volume": 1
       },
       {
-        "name": "block/tuff/step6",
+        "name": "squidcoder:block/tuff/step6",
         "volume": 1
       }
     ],
@@ -3148,19 +3148,19 @@
   "entity.axolotl.attack": {
     "sounds": [
       {
-        "name": "mob/axolotl/attack1",
+        "name": "squidcoder:mob/axolotl/attack1",
         "volume": 0.5
       },
       {
-        "name": "mob/axolotl/attack2",
+        "name": "squidcoder:mob/axolotl/attack2",
         "volume": 0.5
       },
       {
-        "name": "mob/axolotl/attack3",
+        "name": "squidcoder:mob/axolotl/attack3",
         "volume": 0.5
       },
       {
-        "name": "mob/axolotl/attack4",
+        "name": "squidcoder:mob/axolotl/attack4",
         "volume": 0.5
       }
     ],
@@ -3168,41 +3168,41 @@
   },
   "entity.axolotl.death": {
     "sounds": [
-      "mob/axolotl/death1",
-      "mob/axolotl/death2"
+      "squidcoder:mob/axolotl/death1",
+      "squidcoder:mob/axolotl/death2"
     ],
     "subtitle": "subtitles.entity.axolotl.death"
   },
   "entity.axolotl.hurt": {
     "sounds": [
-      "mob/axolotl/hurt1",
-      "mob/axolotl/hurt2",
-      "mob/axolotl/hurt3",
-      "mob/axolotl/hurt4"
+      "squidcoder:mob/axolotl/hurt1",
+      "squidcoder:mob/axolotl/hurt2",
+      "squidcoder:mob/axolotl/hurt3",
+      "squidcoder:mob/axolotl/hurt4"
     ],
     "subtitle": "subtitles.entity.axolotl.hurt"
   },
   "entity.axolotl.idle_air": {
     "sounds": [
       {
-        "name": "mob/axolotl/idle_air1",
+        "name": "squidcoder:mob/axolotl/idle_air1",
         "volume": 1
       },
       {
-        "name": "mob/axolotl/idle_air2",
+        "name": "squidcoder:mob/axolotl/idle_air2",
         "volume": 1
       },
       {
-        "name": "mob/axolotl/idle_air3",
+        "name": "squidcoder:mob/axolotl/idle_air3",
         "volume": 0.8,
         "pitch": 1.2
       },
       {
-        "name": "mob/axolotl/idle_air4",
+        "name": "squidcoder:mob/axolotl/idle_air4",
         "volume": 1
       },
       {
-        "name": "mob/axolotl/idle_air5",
+        "name": "squidcoder:mob/axolotl/idle_air5",
         "pitch": 1
       }
     ],
@@ -3210,28 +3210,28 @@
   },
   "entity.axolotl.idle_water": {
     "sounds": [
-      "mob/axolotl/idle1",
-      "mob/axolotl/idle2",
-      "mob/axolotl/idle3",
-      "mob/axolotl/idle4",
-      "mob/axolotl/idle5"
+      "squidcoder:mob/axolotl/idle1",
+      "squidcoder:mob/axolotl/idle2",
+      "squidcoder:mob/axolotl/idle3",
+      "squidcoder:mob/axolotl/idle4",
+      "squidcoder:mob/axolotl/idle5"
     ],
     "subtitle": "subtitles.entity.axolotl.idle_water"
   },
   "entity.axolotl.splash": {
     "sounds": [
       {
-        "name": "mob/dolphin/splash1",
+        "name": "squidcoder:mob/dolphin/splash1",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "mob/dolphin/splash2",
+        "name": "squidcoder:mob/dolphin/splash2",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "mob/dolphin/splash3",
+        "name": "squidcoder:mob/dolphin/splash3",
         "volume": 0.9,
         "pitch": 1.2
       }
@@ -3240,10 +3240,10 @@
   },
   "entity.axolotl.swim": {
     "sounds": [
-      "mob/dolphin/swim1",
-      "mob/dolphin/swim2",
-      "mob/dolphin/swim3",
-      "mob/dolphin/swim4",
+      "squidcoder:mob/dolphin/swim1",
+      "squidcoder:mob/dolphin/swim2",
+      "squidcoder:mob/dolphin/swim3",
+      "squidcoder:mob/dolphin/swim4",
       "entity/fish/swim5",
       "entity/fish/swim6",
       "entity/fish/swim7"
@@ -3332,35 +3332,35 @@
   "entity.goat.ambient": {
     "sounds": [
       {
-        "name": "mob/goat/idle1",
+        "name": "squidcoder:mob/goat/idle1",
         "volume": 0.82
       },
       {
-        "name": "mob/goat/idle2",
+        "name": "squidcoder:mob/goat/idle2",
         "volume": 0.82
       },
       {
-        "name": "mob/goat/idle3",
+        "name": "squidcoder:mob/goat/idle3",
         "volume": 0.84
       },
       {
-        "name": "mob/goat/idle4",
+        "name": "squidcoder:mob/goat/idle4",
         "volume": 0.84
       },
       {
-        "name": "mob/goat/idle5",
+        "name": "squidcoder:mob/goat/idle5",
         "volume": 0.84
       },
       {
-        "name": "mob/goat/idle6",
+        "name": "squidcoder:mob/goat/idle6",
         "volume": 0.84
       },
       {
-        "name": "mob/goat/idle7",
+        "name": "squidcoder:mob/goat/idle7",
         "volume": 0.83
       },
       {
-        "name": "mob/goat/idle8",
+        "name": "squidcoder:mob/goat/idle8",
         "volume": 0.84
       }
     ],
@@ -3369,23 +3369,23 @@
   "entity.goat.death": {
     "sounds": [
       {
-        "name": "mob/goat/death1",
+        "name": "squidcoder:mob/goat/death1",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/death2",
+        "name": "squidcoder:mob/goat/death2",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/death3",
+        "name": "squidcoder:mob/goat/death3",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/death4",
+        "name": "squidcoder:mob/goat/death4",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/death5",
+        "name": "squidcoder:mob/goat/death5",
         "volume": 0.65
       }
     ],
@@ -3393,28 +3393,28 @@
   },
   "entity.goat.eat": {
     "sounds": [
-      "mob/goat/eat1",
-      "mob/goat/eat2",
-      "mob/goat/eat3"
+      "squidcoder:mob/goat/eat1",
+      "squidcoder:mob/goat/eat2",
+      "squidcoder:mob/goat/eat3"
     ],
     "subtitle": "subtitles.entity.goat.eat"
   },
   "entity.goat.hurt": {
     "sounds": [
       {
-        "name": "mob/goat/hurt1",
+        "name": "squidcoder:mob/goat/hurt1",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/hurt2",
+        "name": "squidcoder:mob/goat/hurt2",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/hurt3",
+        "name": "squidcoder:mob/goat/hurt3",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/hurt4",
+        "name": "squidcoder:mob/goat/hurt4",
         "volume": 0.65
       }
     ],
@@ -3423,22 +3423,22 @@
   "entity.goat.long_jump": {
     "sounds": [
       {
-        "name": "mob/goat/jump1",
+        "name": "squidcoder:mob/goat/jump1",
         "volume": 0.8,
         "pitch": 1
       },
       {
-        "name": "mob/goat/jump2",
+        "name": "squidcoder:mob/goat/jump2",
         "volume": 0.8,
         "pitch": 1
       },
       {
-        "name": "mob/goat/jump1",
+        "name": "squidcoder:mob/goat/jump1",
         "volume": 0.8,
         "pitch": 0.8
       },
       {
-        "name": "mob/goat/jump2",
+        "name": "squidcoder:mob/goat/jump2",
         "volume": 0.8,
         "pitch": 0.8
       }
@@ -3447,28 +3447,28 @@
   },
   "entity.goat.milk": {
     "sounds": [
-      "mob/mooshroom/milk1",
-      "mob/mooshroom/milk2",
-      "mob/mooshroom/milk3"
+      "squidcoder:mob/mooshroom/milk1",
+      "squidcoder:mob/mooshroom/milk2",
+      "squidcoder:mob/mooshroom/milk3"
     ],
     "subtitle": "subtitles.entity.goat.milk"
   },
   "entity.goat.prepare_ram": {
     "sounds": [
       {
-        "name": "mob/goat/pre_ram1",
+        "name": "squidcoder:mob/goat/pre_ram1",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/pre_ram2",
+        "name": "squidcoder:mob/goat/pre_ram2",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/pre_ram3",
+        "name": "squidcoder:mob/goat/pre_ram3",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/pre_ram4",
+        "name": "squidcoder:mob/goat/pre_ram4",
         "volume": 0.8
       }
     ],
@@ -3477,15 +3477,15 @@
   "entity.goat.ram_impact": {
     "sounds": [
       {
-        "name": "mob/goat/impact1",
+        "name": "squidcoder:mob/goat/impact1",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/impact2",
+        "name": "squidcoder:mob/goat/impact2",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/impact2",
+        "name": "squidcoder:mob/goat/impact2",
         "volume": 0.8
       }
     ],
@@ -3494,71 +3494,71 @@
   "entity.goat.screaming.ambient": {
     "sounds": [
       {
-        "name": "mob/goat/idle1",
+        "name": "squidcoder:mob/goat/idle1",
         "volume": 0.82
       },
       {
-        "name": "mob/goat/idle2",
+        "name": "squidcoder:mob/goat/idle2",
         "volume": 0.82
       },
       {
-        "name": "mob/goat/idle3",
+        "name": "squidcoder:mob/goat/idle3",
         "volume": 0.84
       },
       {
-        "name": "mob/goat/idle4",
+        "name": "squidcoder:mob/goat/idle4",
         "volume": 0.84
       },
       {
-        "name": "mob/goat/idle5",
+        "name": "squidcoder:mob/goat/idle5",
         "volume": 0.84
       },
       {
-        "name": "mob/goat/idle6",
+        "name": "squidcoder:mob/goat/idle6",
         "volume": 0.84
       },
       {
-        "name": "mob/goat/idle7",
+        "name": "squidcoder:mob/goat/idle7",
         "volume": 0.83
       },
       {
-        "name": "mob/goat/idle8",
+        "name": "squidcoder:mob/goat/idle8",
         "volume": 0.84
       },
       {
-        "name": "mob/goat/scream1",
+        "name": "squidcoder:mob/goat/scream1",
         "volume": 0.9
       },
       {
-        "name": "mob/goat/scream2",
+        "name": "squidcoder:mob/goat/scream2",
         "volume": 0.9
       },
       {
-        "name": "mob/goat/scream3",
+        "name": "squidcoder:mob/goat/scream3",
         "volume": 0.9
       },
       {
-        "name": "mob/goat/scream4",
+        "name": "squidcoder:mob/goat/scream4",
         "volume": 0.9
       },
       {
-        "name": "mob/goat/scream5",
+        "name": "squidcoder:mob/goat/scream5",
         "volume": 0.9
       },
       {
-        "name": "mob/goat/scream6",
+        "name": "squidcoder:mob/goat/scream6",
         "volume": 0.9
       },
       {
-        "name": "mob/goat/scream7",
+        "name": "squidcoder:mob/goat/scream7",
         "volume": 0.9
       },
       {
-        "name": "mob/goat/scream8",
+        "name": "squidcoder:mob/goat/scream8",
         "volume": 0.9
       },
       {
-        "name": "mob/goat/scream9",
+        "name": "squidcoder:mob/goat/scream9",
         "volume": 0.9
       }
     ],
@@ -3567,15 +3567,15 @@
   "entity.goat.screaming.death": {
     "sounds": [
       {
-        "name": "mob/goat/screaming_death1",
+        "name": "squidcoder:mob/goat/screaming_death1",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/screaming_death2",
+        "name": "squidcoder:mob/goat/screaming_death2",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/screaming_death3",
+        "name": "squidcoder:mob/goat/screaming_death3",
         "volume": 0.65
       }
     ],
@@ -3583,24 +3583,24 @@
   },
   "entity.goat.screaming.eat": {
     "sounds": [
-      "mob/goat/eat1",
-      "mob/goat/eat2",
-      "mob/goat/eat3"
+      "squidcoder:mob/goat/eat1",
+      "squidcoder:mob/goat/eat2",
+      "squidcoder:mob/goat/eat3"
     ],
     "subtitle": "subtitles.entity.goat.eat"
   },
   "entity.goat.screaming.hurt": {
     "sounds": [
       {
-        "name": "mob/goat/screaming_hurt1",
+        "name": "squidcoder:mob/goat/screaming_hurt1",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/screaming_hurt2",
+        "name": "squidcoder:mob/goat/screaming_hurt2",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/screaming_hurt3",
+        "name": "squidcoder:mob/goat/screaming_hurt3",
         "volume": 0.65
       }
     ],
@@ -3609,22 +3609,22 @@
   "entity.goat.screaming.long_jump": {
     "sounds": [
       {
-        "name": "mob/goat/jump1",
+        "name": "squidcoder:mob/goat/jump1",
         "volum": 0.8,
         "pitch": 1
       },
       {
-        "name": "mob/goat/jump2",
+        "name": "squidcoder:mob/goat/jump2",
         "volum": 0.8,
         "pitch": 1
       },
       {
-        "name": "mob/goat/jump1",
+        "name": "squidcoder:mob/goat/jump1",
         "volum": 0.8,
         "pitch": 0.8
       },
       {
-        "name": "mob/goat/jump2",
+        "name": "squidcoder:mob/goat/jump2",
         "volum": 0.8,
         "pitch": 0.8
       }
@@ -3633,34 +3633,34 @@
   },
   "entity.goat.screaming.milk": {
     "sounds": [
-      "mob/goat/screaming_milk1",
-      "mob/goat/screaming_milk2",
-      "mob/goat/screaming_milk3",
-      "mob/goat/screaming_milk4",
-      "mob/goat/screaming_milk5"
+      "squidcoder:mob/goat/screaming_milk1",
+      "squidcoder:mob/goat/screaming_milk2",
+      "squidcoder:mob/goat/screaming_milk3",
+      "squidcoder:mob/goat/screaming_milk4",
+      "squidcoder:mob/goat/screaming_milk5"
     ],
     "subtitle": "subtitles.entity.goat.milk"
   },
   "entity.goat.screaming.prepare_ram": {
     "sounds": [
       {
-        "name": "mob/goat/screaming_pre_ram1",
+        "name": "squidcoder:mob/goat/screaming_pre_ram1",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/screaming_pre_ram2",
+        "name": "squidcoder:mob/goat/screaming_pre_ram2",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/screaming_pre_ram3",
+        "name": "squidcoder:mob/goat/screaming_pre_ram3",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/screaming_pre_ram4",
+        "name": "squidcoder:mob/goat/screaming_pre_ram4",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/screaming_pre_ram5",
+        "name": "squidcoder:mob/goat/screaming_pre_ram5",
         "volume": 0.8
       }
     ],
@@ -3669,15 +3669,15 @@
   "entity.goat.screaming.ram_impact": {
     "sounds": [
       {
-        "name": "mob/goat/impact1",
+        "name": "squidcoder:mob/goat/impact1",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/impact2",
+        "name": "squidcoder:mob/goat/impact2",
         "volume": 0.8
       },
       {
-        "name": "mob/goat/impact2",
+        "name": "squidcoder:mob/goat/impact2",
         "volume": 0.8
       }
     ],
@@ -3686,27 +3686,27 @@
   "entity.goat.step": {
     "sounds": [
       {
-        "name": "mob/goat/step1",
+        "name": "squidcoder:mob/goat/step1",
         "volume": 1
       },
       {
-        "name": "mob/goat/step2",
+        "name": "squidcoder:mob/goat/step2",
         "volume": 1
       },
       {
-        "name": "mob/goat/step3",
+        "name": "squidcoder:mob/goat/step3",
         "volume": 1
       },
       {
-        "name": "mob/goat/step4",
+        "name": "squidcoder:mob/goat/step4",
         "volume": 1
       },
       {
-        "name": "mob/goat/step5",
+        "name": "squidcoder:mob/goat/step5",
         "volume": 1
       },
       {
-        "name": "mob/goat/step6",
+        "name": "squidcoder:mob/goat/step6",
         "volume": 1
       }
     ],
@@ -3716,39 +3716,39 @@
   "item.axe.scrape": {
     "sounds": [
       {
-        "name": "item/axe/scrape1",
+        "name": "squidcoder:item/axe/scrape1",
         "pitch": 1
       },
       {
-        "name": "item/axe/scrape2",
+        "name": "squidcoder:item/axe/scrape2",
         "pitch": 1
       },
       {
-        "name": "item/axe/scrape3",
+        "name": "squidcoder:item/axe/scrape3",
         "pitch": 1
       },
       {
-        "name": "item/axe/scrape1",
+        "name": "squidcoder:item/axe/scrape1",
         "pitch": 1.1
       },
       {
-        "name": "item/axe/scrape2",
+        "name": "squidcoder:item/axe/scrape2",
         "pitch": 1.1
       },
       {
-        "name": "item/axe/scrape3",
+        "name": "squidcoder:item/axe/scrape3",
         "pitch": 1.1
       },
       {
-        "name": "item/axe/scrape1",
+        "name": "squidcoder:item/axe/scrape1",
         "pitch": 0.9
       },
       {
-        "name": "item/axe/scrape2",
+        "name": "squidcoder:item/axe/scrape2",
         "pitch": 0.9
       },
       {
-        "name": "item/axe/scrape3",
+        "name": "squidcoder:item/axe/scrape3",
         "pitch": 0.9
       }
     ],
@@ -3757,38 +3757,38 @@
   "item.axe.strip": {
     "sounds": [
       {
-        "name": "item/axe/strip1",
+        "name": "squidcoder:item/axe/strip1",
         "volume": 0.9
       },
       {
-        "name": "item/axe/strip2",
+        "name": "squidcoder:item/axe/strip2",
         "volume": 0.9
       },
       {
-        "name": "item/axe/strip3",
+        "name": "squidcoder:item/axe/strip3",
         "volume": 0.9
       },
       {
-        "name": "item/axe/strip4",
+        "name": "squidcoder:item/axe/strip4",
         "volume": 0.9
       },
       {
-        "name": "item/axe/strip1",
+        "name": "squidcoder:item/axe/strip1",
         "pitch": 0.85,
         "volume": 0.9
       },
       {
-        "name": "item/axe/strip2",
+        "name": "squidcoder:item/axe/strip2",
         "pitch": 0.85,
         "volume": 0.9
       },
       {
-        "name": "item/axe/strip3",
+        "name": "squidcoder:item/axe/strip3",
         "pitch": 0.85,
         "volume": 0.9
       },
       {
-        "name": "item/axe/strip4",
+        "name": "squidcoder:item/axe/strip4",
         "pitch": 0.85,
         "volume": 0.9
       }
@@ -3798,76 +3798,141 @@
   "item.axe.wax_off": {
     "sounds": [
       {
-        "name": "item/axe/wax_off1",
+        "name": "squidcoder:item/axe/wax_off1",
         "pitch": 1
       },
       {
-        "name": "item/axe/wax_off2",
+        "name": "squidcoder:item/axe/wax_off2",
         "pitch": 1
       },
       {
-        "name": "item/axe/wax_off3",
+        "name": "squidcoder:item/axe/wax_off3",
         "pitch": 1
       },
       {
-        "name": "item/axe/wax_off1",
+        "name": "squidcoder:item/axe/wax_off1",
         "pitch": 1.1
       },
       {
-        "name": "item/axe/wax_off2",
+        "name": "squidcoder:item/axe/wax_off2",
         "pitch": 1.1
       },
       {
-        "name": "item/axe/wax_off3",
+        "name": "squidcoder:item/axe/wax_off3",
         "pitch": 1.1
       },
       {
-        "name": "item/axe/wax_off1",
+        "name": "squidcoder:item/axe/wax_off1",
         "pitch": 0.9
       },
       {
-        "name": "item/axe/wax_off2",
+        "name": "squidcoder:item/axe/wax_off2",
         "pitch": 0.9
       },
       {
-        "name": "item/axe/wax_off3",
+        "name": "squidcoder:item/axe/wax_off3",
         "pitch": 0.9
       }
     ],
     "subtitle": "subtitles.item.axe.wax_off"
   },
+  "item.bone_meal.use": {
+    "sounds": [
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal1",
+        "pitch": 1
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal2",
+        "pitch": 1
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal3",
+        "pitch": 1
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal4",
+        "pitch": 1
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal5",
+        "pitch": 1
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal1",
+        "pitch": 0.9
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal2",
+        "pitch": 0.9
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal3",
+        "pitch": 0.9
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal4",
+        "pitch": 0.9
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal5",
+        "pitch": 0.9
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal1",
+        "pitch": 1.1
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal2",
+        "pitch": 1.1
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal3",
+        "pitch": 1.1
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal4",
+        "pitch": 1.1
+      },
+      {
+        "name": "squidcoder:item/bonemeal/bonemeal5",
+        "pitch": 1.1
+      }
+    ],
+    "subtitle": "subtitles.item.bone_meal.use"
+  },
   "item.bucket.empty_axolotl": {
     "sounds": [
-      "item/bucket/empty_fish1",
-      "item/bucket/empty_fish2",
-      "item/bucket/empty_fish3"
+      "squidcoder:item/bucket/empty_fish1",
+      "squidcoder:item/bucket/empty_fish2",
+      "squidcoder:item/bucket/empty_fish3"
     ],
     "subtitle": "subtitles.item.bucket.empty"
   },
   "item.bucket.empty_powder_snow": {
     "sounds": [
       {
-        "name": "item/bucket/empty_powder_snow1",
+        "name": "squidcoder:item/bucket/empty_powder_snow1",
         "pitch": 1
       },
       {
-        "name": "item/bucket/empty_powder_snow2",
+        "name": "squidcoder:item/bucket/empty_powder_snow2",
         "pitch": 1
       },
       {
-        "name": "item/bucket/empty_powder_snow1",
+        "name": "squidcoder:item/bucket/empty_powder_snow1",
         "pitch": 0.95
       },
       {
-        "name": "item/bucket/empty_powder_snow2",
+        "name": "squidcoder:item/bucket/empty_powder_snow2",
         "pitch": 0.95
       },
       {
-        "name": "item/bucket/empty_powder_snow1",
+        "name": "squidcoder:item/bucket/empty_powder_snow1",
         "pitch": 1.1
       },
       {
-        "name": "item/bucket/empty_powder_snow2",
+        "name": "squidcoder:item/bucket/empty_powder_snow2",
         "pitch": 1.1
       }
     ],
@@ -3876,15 +3941,15 @@
   "item.bucket.fill_axolotl": {
     "sounds": [
       {
-        "name": "item/bucket/fill_axolotl1",
+        "name": "squidcoder:item/bucket/fill_axolotl1",
         "pitch": 1
       },
       {
-        "name": "item/bucket/fill_axolotl2",
+        "name": "squidcoder:item/bucket/fill_axolotl2",
         "pitch": 1
       },
       {
-        "name": "item/bucket/fill_axolotl3",
+        "name": "squidcoder:item/bucket/fill_axolotl3",
         "pitch": 1
       }
     ],
@@ -3893,27 +3958,27 @@
   "item.bucket.fill_powder_snow": {
     "sounds": [
       {
-        "name": "item/bucket/fill_powder_snow1",
+        "name": "squidcoder:item/bucket/fill_powder_snow1",
         "pitch": 1.0
       },
       {
-        "name": "item/bucket/fill_powder_snow2",
+        "name": "squidcoder:item/bucket/fill_powder_snow2",
         "pitch": 1.0
       },
       {
-        "name": "item/bucket/fill_powder_snow1",
+        "name": "squidcoder:item/bucket/fill_powder_snow1",
         "pitch": 0.9
       },
       {
-        "name": "item/bucket/fill_powder_snow2",
+        "name": "squidcoder:item/bucket/fill_powder_snow2",
         "pitch": 0.9
       },
       {
-        "name": "item/bucket/fill_powder_snow1",
+        "name": "squidcoder:item/bucket/fill_powder_snow1",
         "pitch": 1.1
       },
       {
-        "name": "item/bucket/fill_powder_snow2",
+        "name": "squidcoder:item/bucket/fill_powder_snow2",
         "pitch": 1.1
       }
     ],
@@ -3922,39 +3987,39 @@
   "item.glow_ink_sac.use": {
     "sounds": [
       {
-        "name": "item/ink_sac/ink_sac1",
+        "name": "squidcoder:item/ink_sac/ink_sac1",
         "pitch": 1
       },
       {
-        "name": "item/ink_sac/ink_sac1",
+        "name": "squidcoder:item/ink_sac/ink_sac1",
         "pitch": 1.05
       },
       {
-        "name": "item/ink_sac/ink_sac1",
+        "name": "squidcoder:item/ink_sac/ink_sac1",
         "pitch": 0.95
       },
       {
-        "name": "item/ink_sac/ink_sac2",
+        "name": "squidcoder:item/ink_sac/ink_sac2",
         "pitch": 1
       },
       {
-        "name": "item/ink_sac/ink_sac2",
+        "name": "squidcoder:item/ink_sac/ink_sac2",
         "pitch": 1.05
       },
       {
-        "name": "item/ink_sac/ink_sac2",
+        "name": "squidcoder:item/ink_sac/ink_sac2",
         "pitch": 0.95
       },
       {
-        "name": "item/ink_sac/ink_sac3",
+        "name": "squidcoder:item/ink_sac/ink_sac3",
         "pitch": 1
       },
       {
-        "name": "item/ink_sac/ink_sac3",
+        "name": "squidcoder:item/ink_sac/ink_sac3",
         "pitch": 1.05
       },
       {
-        "name": "item/ink_sac/ink_sac3",
+        "name": "squidcoder:item/ink_sac/ink_sac3",
         "pitch": 0.95
       }
     ],
@@ -3963,39 +4028,39 @@
   "item.honeycomb.wax_on": {
     "sounds": [
       {
-        "name": "item/honeycomb/wax_on1",
+        "name": "squidcoder:item/honeycomb/wax_on1",
         "pitch": 1
       },
       {
-        "name": "item/honeycomb/wax_on2",
+        "name": "squidcoder:item/honeycomb/wax_on2",
         "pitch": 1
       },
       {
-        "name": "item/honeycomb/wax_on3",
+        "name": "squidcoder:item/honeycomb/wax_on3",
         "pitch": 1
       },
       {
-        "name": "item/honeycomb/wax_on1",
+        "name": "squidcoder:item/honeycomb/wax_on1",
         "pitch": 1.1
       },
       {
-        "name": "item/honeycomb/wax_on2",
+        "name": "squidcoder:item/honeycomb/wax_on2",
         "pitch": 1.1
       },
       {
-        "name": "item/honeycomb/wax_on3",
+        "name": "squidcoder:item/honeycomb/wax_on3",
         "pitch": 1.1
       },
       {
-        "name": "item/honeycomb/wax_on1",
+        "name": "squidcoder:item/honeycomb/wax_on1",
         "pitch": 0.9
       },
       {
-        "name": "item/honeycomb/wax_on2",
+        "name": "squidcoder:item/honeycomb/wax_on2",
         "pitch": 0.9
       },
       {
-        "name": "item/honeycomb/wax_on3",
+        "name": "squidcoder:item/honeycomb/wax_on3",
         "pitch": 0.9
       }
     ],
@@ -4004,17 +4069,17 @@
   "item.spyglass.stop_using": {
     "sounds": [
       {
-        "name": "item/spyglass/stop",
+        "name": "squidcoder:item/spyglass/stop",
         "volume": 0.5,
         "pitch": 1
       },
       {
-        "name": "item/spyglass/stop",
+        "name": "squidcoder:item/spyglass/stop",
         "volume": 0.5,
         "pitch": 0.9
       },
       {
-        "name": "item/spyglass/stop",
+        "name": "squidcoder:item/spyglass/stop",
         "volume": 0.5,
         "pitch": 0.8
       }
@@ -4024,22 +4089,22 @@
   "item.spyglass.use": {
     "sounds": [
       {
-        "name": "item/spyglass/use",
+        "name": "squidcoder:item/spyglass/use",
         "volume": 0.5,
         "pitch": 1.33
       },
       {
-        "name": "item/spyglass/use",
+        "name": "squidcoder:item/spyglass/use",
         "volume": 0.5,
         "pitch": 1.15
       },
       {
-        "name": "item/spyglass/use",
+        "name": "squidcoder:item/spyglass/use",
         "volume": 0.5,
         "pitch": 1.4
       },
       {
-        "name": "item/spyglass/use",
+        "name": "squidcoder:item/spyglass/use",
         "volume": 0.5,
         "pitch": 1.55
       }
@@ -4050,17 +4115,324 @@
   "music.under_water": {
     "sounds": [
       {
-        "name": "music/game/water/shuniji",
+        "name": "squidcoder:music/game/water/shuniji",
         "stream": true,
         "volume": 0.4
       },
       {
-        "name": "music/game/water/dragon_fish",
+        "name": "squidcoder:music/game/water/dragon_fish",
         "stream": true,
         "volume": 0.4
       },
       {
-        "name": "music/game/water/axolotl",
+        "name": "squidcoder:music/game/water/axolotl",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.dripstone_caves": {
+    "sounds": [
+      {
+        "name": "squidcoder:music/game/an_ordinary_day",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/infinite_amethyst",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/wending",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.frozen_peaks": {
+    "sounds": [
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano3",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.grove": {
+    "sounds": [
+      {
+        "name": "music/game/calm1",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm2",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm3",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "squidcoder:music/game/infinite_amethyst",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano3",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/wending",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.jagged_peaks": {
+    "sounds": [
+      {
+        "name": "squidcoder:music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano3",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "squidcoder:music/game/wending",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.lush_caves": {
+    "sounds": [
+      {
+        "name": "squidcoder:music/game/an_ordinary_day",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm1",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm2",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm3",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/floating_dream",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "squidcoder:music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/piano3",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.meadow": {
+    "sounds": [
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "squidcoder:music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.snowy_slopes": {
+    "sounds": [
+      {
+        "name": "squidcoder:music/game/an_ordinary_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "squidcoder:music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.stony_peaks": {
+    "sounds": [
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano3",
+        "stream": true
+      },
+      {
+        "name": "squidcoder:music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "squidcoder:music/game/wending",
         "stream": true,
         "volume": 0.4
       }
