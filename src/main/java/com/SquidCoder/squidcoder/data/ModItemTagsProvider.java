@@ -17,15 +17,25 @@ public class ModItemTagsProvider extends ItemTagsProvider {
     @Override
     protected void addTags() {
         copy(ModTags.Blocks.ORES_SILVER, ModTags.Items.ORES_SILVER);
+        copy(ModTags.Blocks.ORES_COPPER, ModTags.Items.ORES_COPPER);
         copy(Tags.Blocks.ORES, Tags.Items.ORES);
+        
         copy(ModTags.Blocks.STORAGE_BLOCKS_SILVER, ModTags.Items.STORAGE_BLOCKS_SILVER);
+        copy(ModTags.Blocks.STORAGE_BLOCKS_COPPER, ModTags.Items.STORAGE_BLOCKS_COPPER);
         copy(Tags.Blocks.STORAGE_BLOCKS, Tags.Items.STORAGE_BLOCKS);
 
         tag(ModTags.Items.INGOTS_SILVER).add(ModItems.SILVER_INGOT.get());
-        tag(Tags.Items.INGOTS).addTag(ModTags.Items.INGOTS_SILVER);
+        tag(ModTags.Items.INGOTS_COPPER).add(ModItems.COPPER_INGOT.get());
+        tag(Tags.Items.INGOTS)
+                  .addTag(ModTags.Items.INGOTS_SILVER);
+                  .addTag(ModTags.Items.INGOTS_COPPER);
+        
         tag(ModTags.Items.DUSTS_SILVER).add(ModItems.SILVER_DUST.get());
-        tag(Tags.Items.DUSTS).addTag(ModTags.Items.DUSTS_SILVER);
+        tag(Tags.Items.DUSTS)
+                  .addTag(ModTags.Items.DUSTS_SILVER);
+        
         tag(ModTags.Items.NUGGETS_SILVER).add(ModItems.SILVER_NUGGET.get());
-        tag(Tags.Items.NUGGETS).addTag(ModTags.Items.NUGGETS_SILVER);
+        tag(Tags.Items.NUGGETS)
+                  .addTag(ModTags.Items.NUGGETS_SILVER);
     }
 }

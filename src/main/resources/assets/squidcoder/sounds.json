@@ -3221,17 +3221,17 @@
   "entity.axolotl.splash": {
     "sounds": [
       {
-        "name": "squidcoder:mob/dolphin/splash1",
+        "name": "mob/dolphin/splash1",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "squidcoder:mob/dolphin/splash2",
+        "name": "mob/dolphin/splash2",
         "volume": 0.9,
         "pitch": 1.2
       },
       {
-        "name": "squidcoder:mob/dolphin/splash3",
+        "name": "mob/dolphin/splash3",
         "volume": 0.9,
         "pitch": 1.2
       }
@@ -3240,10 +3240,10 @@
   },
   "entity.axolotl.swim": {
     "sounds": [
-      "squidcoder:mob/dolphin/swim1",
-      "squidcoder:mob/dolphin/swim2",
-      "squidcoder:mob/dolphin/swim3",
-      "squidcoder:mob/dolphin/swim4",
+      "mob/dolphin/swim1",
+      "mob/dolphin/swim2",
+      "mob/dolphin/swim3",
+      "mob/dolphin/swim4",
       "entity/fish/swim5",
       "entity/fish/swim6",
       "entity/fish/swim7"
@@ -3296,36 +3296,36 @@
   },
   "entity.glow_squid.ambient": {
     "sounds": [
-      "entity/glow_squid/ambient1",
-      "entity/glow_squid/ambient2",
-      "entity/glow_squid/ambient3",
-      "entity/glow_squid/ambient4",
-      "entity/glow_squid/ambient5"
+      "squidcoder:entity/glow_squid/ambient1",
+      "squidcoder:entity/glow_squid/ambient2",
+      "squidcoder:entity/glow_squid/ambient3",
+      "squidcoder:entity/glow_squid/ambient4",
+      "squidcoder:entity/glow_squid/ambient5"
     ],
     "subtitle": "subtitles.entity.glow_squid.ambient"
   },
   "entity.glow_squid.death": {
     "sounds": [
-      "entity/glow_squid/death1",
-      "entity/glow_squid/death2",
-      "entity/glow_squid/death3"
+      "squidcoder:entity/glow_squid/death1",
+      "squidcoder:entity/glow_squid/death2",
+      "squidcoder:entity/glow_squid/death3"
     ],
     "subtitle": "subtitles.entity.glow_squid.death"
   },
   "entity.glow_squid.hurt": {
     "sounds": [
-      "entity/glow_squid/hurt1",
-      "entity/glow_squid/hurt2",
-      "entity/glow_squid/hurt3",
-      "entity/glow_squid/hurt4"
+      "squidcoder:entity/glow_squid/hurt1",
+      "squidcoder:entity/glow_squid/hurt2",
+      "squidcoder:entity/glow_squid/hurt3",
+      "squidcoder:entity/glow_squid/hurt4"
     ],
     "subtitle": "subtitles.entity.glow_squid.hurt"
   },
   "entity.glow_squid.squirt": {
     "sounds": [
-      "entity/glow_squid/squirt1",
-      "entity/glow_squid/squirt2",
-      "entity/glow_squid/squirt3"
+      "squidcoder:entity/glow_squid/squirt1",
+      "squidcoder:entity/glow_squid/squirt2",
+      "squidcoder:entity/glow_squid/squirt3"
     ],
     "subtitle": "subtitles.entity.glow_squid.squirt"
   },
@@ -3447,9 +3447,9 @@
   },
   "entity.goat.milk": {
     "sounds": [
-      "squidcoder:mob/mooshroom/milk1",
-      "squidcoder:mob/mooshroom/milk2",
-      "squidcoder:mob/mooshroom/milk3"
+      "mob/mooshroom/milk1",
+      "mob/mooshroom/milk2",
+      "mob/mooshroom/milk3"
     ],
     "subtitle": "subtitles.entity.goat.milk"
   },
@@ -3754,47 +3754,6 @@
     ],
     "subtitle": "subtitles.item.axe.scrape"
   },
-  "item.axe.strip": {
-    "sounds": [
-      {
-        "name": "squidcoder:item/axe/strip1",
-        "volume": 0.9
-      },
-      {
-        "name": "squidcoder:item/axe/strip2",
-        "volume": 0.9
-      },
-      {
-        "name": "squidcoder:item/axe/strip3",
-        "volume": 0.9
-      },
-      {
-        "name": "squidcoder:item/axe/strip4",
-        "volume": 0.9
-      },
-      {
-        "name": "squidcoder:item/axe/strip1",
-        "pitch": 0.85,
-        "volume": 0.9
-      },
-      {
-        "name": "squidcoder:item/axe/strip2",
-        "pitch": 0.85,
-        "volume": 0.9
-      },
-      {
-        "name": "squidcoder:item/axe/strip3",
-        "pitch": 0.85,
-        "volume": 0.9
-      },
-      {
-        "name": "squidcoder:item/axe/strip4",
-        "pitch": 0.85,
-        "volume": 0.9
-      }
-    ],
-    "subtitle": "subtitles.item.axe.strip"
-  },
   "item.axe.wax_off": {
     "sounds": [
       {
@@ -3903,9 +3862,9 @@
   },
   "item.bucket.empty_axolotl": {
     "sounds": [
-      "squidcoder:item/bucket/empty_fish1",
-      "squidcoder:item/bucket/empty_fish2",
-      "squidcoder:item/bucket/empty_fish3"
+      "item/bucket/empty_fish1",
+      "item/bucket/empty_fish2",
+      "item/bucket/empty_fish3"
     ],
     "subtitle": "subtitles.item.bucket.empty"
   },

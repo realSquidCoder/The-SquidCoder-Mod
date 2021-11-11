@@ -1,14 +1,32 @@
 {
   "block.squidcoder.silver_block": "Block of Silver",
   "block.squidcoder.copper_block": "Block of Copper",
+  
   "block.squidcoder.silver_ore": "Silver Ore",
   "block.squidcoder.copper_ore": "Copper Ore",
+  
   "block.squidcoder.dummy_block": "This block shouldn't be in the full release, how did you get it?",
+  
+  
   "item.squidcoder.silver_ingot": "Silver Ingot",
   "item.squidcoder.copper_ingot": "Copper Ingot",
+  
   "item.squidcoder.raw_iron": "Raw Iron",
   "item.squidcoder.raw_gold": "Raw Gold",
+  "item.squidcoder.raw_copper": "Raw Copper",
+  
   "item.squidcoder.silver_dust": "Silver Dust",
+  
   "item.squidcoder.silver_nugget": "Silver Nugget",
-  "itemGroup.squidcoder_modtab": "The SquidCoder Mod"
+  
+  "item.squidcoder.spyglass": "Spyglass",
+  "item.squidcoder.amethyst_shard": "Amethyst Shard",
+  
+  "tooltip.squidcoder.spyglass_alt": "AH-HA",
+  "tooltip.squidcoder.spyglass_ctrl": "AH-HA-HA",
+  "tooltip.squidcoder.spyglass_shift": "HAH-HA",
+  
+  
+  "itemGroup.squidcoder_modtab": "The SquidCoder Mod",
+  "itemGroup.caves_and_cliffs_modtab": "Caves & Cliffs Backport"
 }

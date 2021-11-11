@@ -46,6 +46,9 @@ public class SquidCoderMod
         // some preinit code
         LOGGER.info("HELLO FROM PREINIT");
         LOGGER.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
+        
+        // add to the setup method inside the enqueueWork runnable
+        ModBiomeGeneration.generateBiomes();
     }
 
     private void doClientStuff(final FMLClientSetupEvent event) {

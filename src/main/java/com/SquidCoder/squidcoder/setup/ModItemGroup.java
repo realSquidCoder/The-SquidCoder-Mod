@@ -13,7 +13,7 @@ public class ModItemGroup {
         }
     };
     
-    public static final ItemGroup CAVES_AND_CLIFFS_BACKPORT = new ItemGroup("caves_and_cliffsModTab") {
+    public static final ItemGroup CAVES_AND_CLIFFS_BACKPORT = new ItemGroup("caves_and_cliffs_modtab") {
 
         @Override
         public ItemStack makeIcon() {

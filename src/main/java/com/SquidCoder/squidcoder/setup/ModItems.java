@@ -20,7 +20,21 @@ public class ModItems {
             new Item(new Item.Properties().tab(ModItemGroup.SQUIDCODER_MOD)));
 
     public static final RegistryObject<Item> SPYGLASS = Registration.ITEMS.register("spyglass", () ->
-            new Item(new Item.Properties().tab(ModItemGroup.SQUIDCODER_MOD)));
+            new Item(new Item.Properties().tab(ModItemGroup.SQUIDCODER_MOD))/*{
+                @Override
+                public void appendHoverText(ItemStack stack, @Nullable World worldIn, List<ITextComponent> tooltip, ITooltipFlag flagIn) {
+                    if(Screen.hasAltDown()){
+                        tooltip.add(new TranslationTextComponent("tooltip.squidcoder.spyglass_alt"));
+                    }
+                    if(Screen.hasControlDown()){
+                        tooltip.add(new TranslationTextComponent("tooltip.squidcoder.spyglass_ctrl"));
+                    }
+                    if(Screen.hasShiftDown()){
+                        tooltip.add(new TranslationTextComponent("tooltip.squidcoder.spyglass_shift"));
+                    }
+                    super.appendHoverText(stack, worldIn, tooltip, flagIn);
+                }
+            }*/);
 
     public static final RegistryObject<Item> AMETHYST_SHARD = Registration.ITEMS.register("amethyst_shard", () ->
             new Item(new Item.Properties().tab(ModItemGroup.SQUIDCODER_MOD))/*{

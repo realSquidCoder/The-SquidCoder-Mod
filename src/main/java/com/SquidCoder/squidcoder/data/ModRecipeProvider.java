@@ -52,9 +52,9 @@ public class ModRecipeProvider extends RecipeProvider {
         ShapedRecipeBuilder.shaped(ModItems.SPYGLASS.get())
                 .define('c', ModItems.COPPER_INGOT.get())
                 .define('a', ModItems.AMETHYST_SHARD.get())
-                .pattern(" a ")
-                .pattern(" c ")
-                .pattern(" c ")
+                .pattern("a")
+                .pattern("c")
+                .pattern("c")
                 .unlockedBy("has_item", has(ModItems.AMETHYST_SHARD.get()))
                 .save(consumer);
         
@@ -71,6 +71,51 @@ public class ModRecipeProvider extends RecipeProvider {
         makeMeltingRecipesFromItem(ModItems.RAW_GOLD.get(), Items.GOLD_INGOT.getItem(), 1f, consumer, "gold_ingot");
     }
 
+    private void makeCompactingRecipe(Item input, Item output, String result_name, Consumer<IFinishedRecipe> consumer){
+      ShapedRecipeBuilder.shaped(output)
+                .define('#', input)
+                .pattern("###")
+                .pattern("###")
+                .pattern("###")
+                .unlockedBy("has_item", has(input))
+                .save(consumer, modId(result_name+"_from_compacting"));
+    }
+
+    private void makeCompactingRecipe(Item input, Block output, String result_name, Consumer<IFinishedRecipe> consumer){
+      ShapedRecipeBuilder.shaped(output)
+                .define('#', input)
+                .pattern("###")
+                .pattern("###")
+                .pattern("###")
+                .unlockedBy("has_item", has(input))
+                .save(consumer, modId(result_name+"_from_compacting"));
+    }
+
+    private void makeDecompactingRecipe(Item input, Item output, String result_name, Consumer<IFinishedRecipe> consumer){
+      ShapelessRecipeBuilder.shapeless(output,9)
+                .requires(input)
+                .unlockedBy("has_item", has(input))
+                .save(consumer,modId(result_name+"_from_decompacting"));
+    }
+    
+    private void makeDecompactingRecipe(Block input, Item output, String result_name, Consumer<IFinishedRecipe> consumer){
+      ShapelessRecipeBuilder.shapeless(output,9)
+                .requires(input)
+                .unlockedBy("has_item", has(input))
+                .save(consumer,modId(result_name+"_from_decompacting"));
+    }
+    
+    private void makeCompactingAndDecompactingRecipe(Item compactingInput, Item compactingOutput, String compacting_result, String decompacting_result, Consumer<IFinishedRecipe> consumer){
+      makeCompactingRecipe(compactingInput, compactingOutput, compacting_result, consumer);
+      makeDecompactingRecipe(compactingOutput, compactingInput, decompacting_result, consumer);
+    }
+
+    private void makeCompactingAndDecompactingRecipe(Item compactingInput, Block compactingOutput, String compacting_result, String decompacting_result, Consumer<IFinishedRecipe> consumer){
+      makeCompactingRecipe(compactingInput, compactingOutput, compacting_result, consumer);
+      makeDecompactingRecipe(compactingOutput, compactingInput, decompacting_result, consumer);
+    }
+
+    
     private void makeMeltingRecipesFromItem(Item ingredient, Item result, float exp, Consumer<IFinishedRecipe> consumer, String result_name) {
         CookingRecipeBuilder.smelting(Ingredient.of(ingredient), result, exp, 200)
                 .unlockedBy("has_item", has(ingredient))

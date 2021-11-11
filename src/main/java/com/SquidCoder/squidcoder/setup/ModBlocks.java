@@ -44,6 +44,27 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .strength(3, 6)
                     .sound(ModSoundType.COPPER)));//make copper sounds
+                    
+    
+    public static final RegistryObject<Block> AMETHYST_BLOCK = register("amethyst_block", () ->
+            new Block(AbstractBlock.Properties
+                    .of(Material.WOOD)//ModMaterials.AMETHYST
+                    .harvestLevel(1)
+                    .harvestTool(ToolType.PICKAXE)
+                    .requiresCorrectToolForDrops()
+                    .strength(0,0)
+                    .sound(ModSoundType.AMETHYST)));//make gem sounds
+                    
+    
+    public static final RegistryObject<Block> BUDDING_AMETHYST = register("budding_amethyst", () ->
+            new Block(AbstractBlock.Properties
+                    .of(Material.WOOD)//ModMaterials.AMETHYST
+                    .harvestTool(ToolType.PICKAXE)
+                    .requiresCorrectToolForDrops()
+                    .strength(0,0)
+                    .sound(ModSoundType.AMETHYST)));//make gem sounds
+                    
+    
 
     static void register() {}
 

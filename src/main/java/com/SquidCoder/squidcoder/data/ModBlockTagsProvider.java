@@ -17,9 +17,22 @@ public class ModBlockTagsProvider extends BlockTagsProvider {
     protected void addTags() {
         tag(ModTags.Blocks.ORES_SILVER)
                 .add(ModBlocks.SILVER_ORE.get());
-        tag(Tags.Blocks.ORES).addTag(ModTags.Blocks.ORES_SILVER);
+                
+        tag(ModTags.Blocks.ORES_COPPER)
+                .add(ModBlocks.COPPER_ORE.get());
+                
+        tag(Tags.Blocks.ORES)
+                .addTag(ModTags.Blocks.ORES_SILVER);
+                .addTag(ModTags.Blocks.ORES_COPPER);
+        
         tag(ModTags.Blocks.STORAGE_BLOCKS_SILVER)
                 .add(ModBlocks.SILVER_BLOCK.get());
-        tag(Tags.Blocks.STORAGE_BLOCKS).addTag(ModTags.Blocks.STORAGE_BLOCKS_SILVER);
+        
+        tag(ModTags.Blocks.STORAGE_BLOCKS_COPPER)
+                .add(ModBlocks.COPPER_BLOCK.get());
+                
+        tag(Tags.Blocks.STORAGE_BLOCKS)
+                .addTag(ModTags.Blocks.STORAGE_BLOCKS_SILVER);
+                .addTag(ModTags.Blocks.STORAGE_BLOCKS_COPPER);
     }
 }
